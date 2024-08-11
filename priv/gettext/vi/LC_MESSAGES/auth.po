@@ -1,0 +1,266 @@
+## This file is a PO Template file.
+##
+## "msgid"s here are often extracted from source code.
+## Add new translations manually only if they're dynamic
+## translations that can't be statically extracted.
+##
+## Run "mix gettext.extract" to bring this file up to
+## date. Leave "msgstr"s empty as changing them here as no
+## effect: edit them in PO (.po) files instead.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+
+#: lib/keila_web/controllers/auth_controller.ex:78
+#, fuzzy
+msgid "Activation required"
+msgstr "Yêu cầu kích hoạt"
+
+#: lib/keila_web/controllers/auth_controller.ex:66
+#, fuzzy
+msgid "Activation successful"
+msgstr "Kích hoạt thành công"
+
+#: lib/keila_web/templates/auth/activate_resend_success.html.heex:4
+#: lib/keila_web/templates/auth/register_success.html.heex:4
+#: lib/keila_web/templates/auth/reset_success.html.heex:4
+#, fuzzy
+msgid "Check your inbox!"
+msgstr "Kiểm tra hộp thư đến của bạn!"
+
+#: lib/keila_web/templates/auth/login.html.heex:34
+msgid "Don’t have an account?"
+msgstr "Bạn chưa có tài khoản?"
+
+#: lib/keila_web/templates/auth/login.html.heex:40
+msgid "Forgot your password?"
+msgstr "Quên mật khẩu?"
+
+#: lib/keila_web/templates/auth/activate_success.html.heex:12
+#, fuzzy
+msgid "Get started!"
+msgstr "Bắt đầu!"
+
+#: lib/keila/auth/emails.ex:44
+msgid "Hey there,\n"
+"\n"
+"please confirm your new email address by visiting the following link:\n"
+"\n"
+"%{url}\n"
+"\n"
+"If you weren’t trying to change your email address, simply ignore this message.\n"
+msgstr "Xin chào,\n"
+"\n"
+"Vui lòng xác nhận địa chỉ email mới của bạn bằng cách truy cập liên kết sau:\n"
+"\n"
+"%{url}\n"
+"\n"
+"Nếu bạn không cố gắng thay đổi địa chỉ email của mình, chỉ cần bỏ qua thông báo này.\n"
+
+#: lib/keila/auth/emails.ex:93
+msgid "Hey there,\n"
+"\n"
+"you can login to Keila with the following link:\n"
+"\n"
+"%{url}\n"
+"\n"
+"If you haven’t requested a login, simply ignore this message.\n"
+msgstr "Xin chào,\n"
+"\n"
+"bạn có thể đăng nhập vào Keila bằng liên kết sau:\n"
+"\n"
+"%{url}\n"
+"\n"
+"Nếu bạn chưa yêu cầu đăng nhập, chỉ cần bỏ qua thông báo này.\n"
+
+#: lib/keila/auth/emails.ex:68
+msgid "Hey there,\n"
+"\n"
+"you have requested a password reset for your Keila account.\n"
+"\n"
+"You can set a new password by visiting the following link:\n"
+"\n"
+"%{url}\n"
+"\n"
+"If you weren’t trying to reset your password, simply ignore this message.\n"
+msgstr "Xin chào,\n"
+"\n"
+"bạn đã yêu cầu đặt lại mật khẩu cho tài khoản Keila của mình.\n"
+"\n"
+"Bạn có thể đặt mật khẩu mới bằng cách truy cập liên kết sau:\n"
+"\n"
+"%{url}\n"
+"\n"
+"Nếu bạn không cố gắng đặt lại mật khẩu của mình, chỉ cần bỏ qua thông báo này.\n"
+
+#: lib/keila_web/templates/auth/reset_success.html.heex:7
+#, fuzzy
+msgid "If you have an account, we’ve sent you a verification link to %{email}."
+msgstr "Nếu bạn có tài khoản, chúng tôi đã gửi cho bạn liên kết xác minh tới %{email}."
+
+#: lib/keila_web/templates/auth/404.html.heex:7
+#, fuzzy
+msgid "It seems like your link has expired or is invalid."
+msgstr "Có vẻ như liên kết của bạn đã hết hạn hoặc không hợp lệ."
+
+#: lib/keila_web/controllers/account_controller.ex:46
+#, fuzzy
+msgid "Manage Account"
+msgstr "Quản lý tài khoản"
+
+#: lib/keila_web/controllers/account_controller.ex:19
+#, fuzzy
+msgid "New password saved."
+msgstr "Mật khẩu mới đã lưu."
+
+#: lib/keila_web/controllers/auth_controller.ex:205
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: lib/keila_web/controllers/auth_controller.ex:116
+#: lib/keila_web/controllers/auth_controller.ex:129
+#: lib/keila_web/controllers/auth_controller.ex:162
+msgid "Password reset"
+msgstr "Thiết lập lại mật khẩu"
+
+#: lib/keila_web/controllers/auth_controller.ex:149
+#, fuzzy
+msgid "Password reset successful"
+msgstr "Đặt lại mật khẩu thành công"
+
+#: lib/keila/auth/emails.ex:17
+#, fuzzy
+msgid "Please Verify Your Account"
+msgstr "Vui lòng xác minh tài khoản của bạn"
+
+#: lib/keila/auth/emails.ex:41
+#, fuzzy
+msgid "Please Verify Your Email"
+msgstr "Vui lòng xác minh email của bạn"
+
+#: lib/keila_web/templates/auth/activate_required.html.heex:4
+#, fuzzy
+msgid "Please activate your account first."
+msgstr "Vui lòng kích hoạt tài khoản của bạn trước."
+
+#: lib/keila_web/controllers/auth_controller.ex:42
+#: lib/keila_web/controllers/public_form_controller.ex:55
+#, fuzzy
+msgid "Please complete the captcha."
+msgstr "Vui lòng hoàn thành captcha."
+
+#: lib/keila_web/templates/auth/activate_required.html.heex:15
+msgid "Resend activation link"
+msgstr "Gửi lại liên kết kích hoạt"
+
+#: lib/keila_web/templates/auth/login.html.heex:42
+#, fuzzy
+msgid "Reset your password."
+msgstr "Đặt lại mật khẩu của bạn."
+
+#: lib/keila_web/controllers/auth_controller.ex:185
+#: lib/keila_web/templates/auth/login.html.heex:30
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#: lib/keila_web/templates/auth/login.html.heex:13
+#, fuzzy
+msgid "Sign in with your email address and password here."
+msgstr "Đăng nhập bằng địa chỉ email và mật khẩu của bạn tại đây."
+
+#: lib/keila_web/templates/auth/login.html.heex:10
+#, fuzzy
+msgid "Sign in."
+msgstr "Đăng ký"
+
+#: lib/keila_web/controllers/auth_controller.ex:56
+msgid "Sign up"
+msgstr "Đăng ký"
+
+#: lib/keila_web/controllers/auth_controller.ex:31
+#, fuzzy
+msgid "Sign up successful"
+msgstr "Đăng ký thành công"
+
+#: lib/keila_web/templates/auth/login.html.heex:36
+#, fuzzy
+msgid "Sign up."
+msgstr "Đăng ký"
+
+#: lib/keila_web/templates/auth/activate_success.html.heex:7
+#, fuzzy
+msgid "Thanks for verifying your email."
+msgstr "Cảm ơn bạn đã xác minh email của bạn."
+
+#: lib/keila_web/templates/auth/404.html.heex:4
+#, fuzzy
+msgid "That didn’t work :-("
+msgstr "Điều đó không hiệu quả :-("
+
+#: lib/keila_web/templates/auth/activate_success.html.heex:4
+#, fuzzy
+msgid "Welcome to Keila!"
+msgstr "Chào mừng bạn đến với Keila!"
+
+#: lib/keila/auth/emails.ex:20
+#, fuzzy
+msgid "Welcome to Keila,\n"
+"\n"
+"please confirm your new account by visiting the following link:\n"
+"\n"
+"%{url}\n"
+"\n"
+"If you weren’t trying to create an account, simply ignore this message.\n"
+msgstr "Chào mừng bạn đến với Keila,\n"
+"\n"
+"Vui lòng xác nhận tài khoản mới của bạn bằng cách truy cập liên kết sau:\n"
+"\n"
+"%{url}\n"
+"\n"
+"Nếu bạn không cố gắng tạo tài khoản, chỉ cần bỏ qua thông báo này.\n"
+
+#: lib/keila_web/templates/auth/activate_resend_success.html.heex:7
+#, fuzzy
+msgid "We’ve resent your verification link to %{email}."
+msgstr "Chúng tôi đã gửi liên kết xác minh của bạn đến %{email}."
+
+#: lib/keila_web/templates/auth/register_success.html.heex:7
+#, fuzzy
+msgid "We’ve sent you a verification link to %{email}."
+msgstr "Chúng tôi đã gửi cho bạn liên kết xác minh tới %{email}."
+
+#: lib/keila_web/templates/auth/reset_change_password_success.html.heex:7
+#, fuzzy
+msgid "You can now continue using Keila."
+msgstr "Bây giờ bạn có thể tiếp tục sử dụng Keila."
+
+#: lib/keila_web/templates/auth/activate_required.html.heex:7
+#, fuzzy
+msgid "You need to verify your email before you can use Keila. Please check your inbox."
+msgstr "Bạn cần xác minh email của mình trước khi có thể sử dụng Keila. Vui lòng kiểm tra hộp thư đến của bạn."
+
+#: lib/keila/auth/emails.ex:64
+#, fuzzy
+msgid "Your Account Reset Link"
+msgstr "Liên kết đặt lại tài khoản của bạn"
+
+#: lib/keila/auth/emails.ex:89
+#, fuzzy
+msgid "Your Login Link"
+msgstr "Liên kết đăng nhập của bạn"
+
+#: lib/keila_web/templates/auth/reset_change_password_success.html.heex:12
+#, fuzzy
+msgid "Log in with your new password"
+msgstr "Đăng nhập bằng mật khẩu mới của bạn"
+

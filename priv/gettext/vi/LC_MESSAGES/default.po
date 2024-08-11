@@ -1,0 +1,2545 @@
+## This file is a PO Template file.
+##
+## "msgid"s here are often extracted from source code.
+## Add new translations manually only if they're dynamic
+## translations that can't be statically extracted.
+##
+## Run "mix gettext.extract" to bring this file up to
+## date. Leave "msgstr"s empty as changing them here as no
+## effect: edit them in PO (.po) files instead.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi\n"
+
+#: lib/keila_web/templates/account/edit.html.heex:75
+#: lib/keila_web/templates/account/edit.html.heex:128
+#, fuzzy
+msgid "%{monthly_emails} emails/month"
+msgstr "%{monthly_emails} email/tháng"
+
+#: lib/keila_web/templates/account/edit.html.heex:57
+#: lib/keila_web/templates/account/edit.html.heex:111
+#, fuzzy
+msgid "%{price} / month"
+msgstr "%{price} / tháng"
+
+#: lib/keila_web/templates/account/edit.html.heex:174
+#, fuzzy
+msgid "%{remaining} / %{total} emails remaining"
+msgstr "%{còn lại} / %{tổng} email còn lại"
+
+#: lib/keila_web/templates/account/edit.html.heex:65
+#: lib/keila_web/templates/account/edit.html.heex:118
+#, fuzzy
+msgid "(%{price} incl. tax)"
+msgstr "(%{giá} đã bao gồm thuế)"
+
+#: lib/keila_web/views/public_form_view.ex:166
+msgid "(optional)"
+msgstr "(tùy chọn)"
+
+#: lib/keila_web/templates/sender/_mailgun_config.html.heex:10
+#: lib/keila_web/templates/sender/_mailgun_config.html.heex:22
+#: lib/keila_web/templates/sender/_postmark_config.html.heex:4
+#: lib/keila_web/templates/sender/_postmark_config.html.heex:16
+#: lib/keila_web/templates/sender/_sendgrid_config.html.heex:4
+#: lib/keila_web/templates/sender/_sendgrid_config.html.heex:16
+msgid "API Key"
+msgstr "API Key"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:25
+msgid "Access Key"
+msgstr "Khóa truy cập-Access Key"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:144
+msgid "Account"
+msgstr "Tài khoản"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:126
+#, fuzzy
+msgid "Allow embedding as HTML"
+msgstr "Cho phép nhúng dưới dạng HTML"
+
+#: lib/keila_web/templates/auth/register.html.heex:47
+#: lib/keila_web/templates/auth/registration_disabled.html.heex:13
+msgid "Already have an account?"
+msgstr "Bạn đã có tài khoản?"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:114
+msgid "Alt Text"
+msgstr "Thẻ Alt"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:108
+#, fuzzy
+msgid "Are you ready to schedule sending your campaign <em>%{subject}</em> to %{count} contacts?"
+msgstr "Bạn đã sẵn sàng lên lịch gửi <em>chiến dịch %{subject}</em> của mình đến %{count} địa chỉ liên hệ chưa?"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:31
+#, fuzzy
+msgid "Are you ready to send your campaign <em>%{subject}</em> to %{count} contacts?"
+msgstr "Bạn đã sẵn sàng gửi <em>%{subject}</em> chiến dịch của mình đến %{count} địa chỉ liên hệ chưa?"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:9
+#, fuzzy
+msgid "Asia Pacific (Mumbai)"
+msgstr "Châu Á Thái Bình Dương (Mumbai)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:10
+#, fuzzy
+msgid "Asia Pacific (Seoul)"
+msgstr "Châu Á Thái Bình Dương (Seoul)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:11
+#, fuzzy
+msgid "Asia Pacific (Singapore)"
+msgstr "Châu Á Thái Bình Dương (Singapore)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:12
+#, fuzzy
+msgid "Asia Pacific (Sydney)"
+msgstr "Châu Á Thái Bình Dương (Sydney)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:13
+#, fuzzy
+msgid "Asia Pacific (Tokyo)"
+msgstr "Châu Á Thái Bình Dương (Tokyo)"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:76
+#, fuzzy
+msgid "Back to Contacts overview"
+msgstr "Tổng quan về Danh bạ"
+
+#: lib/keila_web/templates/sender/verification_success.html.heex:13
+#, fuzzy
+msgid "Back to your project"
+msgstr "Quay lại dự án của bạn"
+
+#: lib/keila_web/views/template_view.ex:39
+msgid "Background"
+msgstr "Nền"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:4
+msgid "Bold"
+msgstr "Đậm"
+
+#: lib/keila/templates/default_template.ex:63
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:41
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:81
+msgid "Button"
+msgstr "Nút"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:165
+msgid "Button Text"
+msgstr "Nút văn bản"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:157
+msgid "Button URL"
+msgstr "Đường dẫn nút bấm"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:94
+msgid "Button label"
+msgstr "Nhãn nút"
+
+#: lib/keila_web/controllers/campaign_controller.ex:18
+#: lib/keila_web/templates/campaign/index.html.heex:4
+#: lib/keila_web/templates/layout/_menu.html.heex:122
+#: lib/keila_web/templates/project/show.html.heex:36
+msgid "Campaigns"
+msgstr "Chiến dịch"
+
+#: lib/keila_web/templates/sender/delete.html.heex:10
+msgid "Campaigns associated with this sender will not be deleted."
+msgstr "Các chiến dịch được liên kết với người gửi này sẽ không bị xóa."
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:14
+#, fuzzy
+msgid "Canada (Central)"
+msgstr "Canada (Miền Trung)"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:49
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:155
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:170
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:55
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:134
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:176
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:211
+#: lib/keila_web/templates/campaign/delete.html.heex:34
+#: lib/keila_web/templates/campaign/edit_live.html.heex:13
+#: lib/keila_web/templates/contact/delete.html.heex:54
+#: lib/keila_web/templates/contact/edit.html.heex:23
+#: lib/keila_web/templates/form/delete.html.heex:34
+#: lib/keila_web/templates/form/edit_live.html.heex:14
+#: lib/keila_web/templates/project/delete.html.heex:37
+#: lib/keila_web/templates/project/edit.html.heex:14
+#: lib/keila_web/templates/segment/delete.html.heex:34
+#: lib/keila_web/templates/segment/edit_live.html.heex:14
+#: lib/keila_web/templates/sender/delete.html.heex:35
+#: lib/keila_web/templates/sender/edit.html.heex:18
+#: lib/keila_web/templates/shared_sender_admin/delete.html.heex:39
+#: lib/keila_web/templates/shared_sender_admin/edit.html.heex:18
+#: lib/keila_web/templates/template/delete.html.heex:35
+#: lib/keila_web/templates/template/edit_live.html.heex:14
+#: lib/keila_web/templates/user_admin/delete.html.heex:34
+msgid "Cancel"
+msgstr "Hủy"
+
+#: lib/keila_web/templates/account/edit.html.heex:92
+msgid "Cancel subscription"
+msgstr "Hủy bỏ theo dõi"
+
+#: lib/keila_web/templates/sender/_mailgun_config.html.heex:25
+#: lib/keila_web/templates/sender/_postmark_config.html.heex:19
+#: lib/keila_web/templates/sender/_sendgrid_config.html.heex:19
+#: lib/keila_web/templates/sender/_ses_config.html.heex:48
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:34
+msgid "Change"
+msgstr "Thay đổi"
+
+#: lib/keila_web/templates/account/edit.html.heex:188
+msgid "Change Password"
+msgstr "Thay đổi mật khẩu"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:101
+#, fuzzy
+msgid "Check your sending quota now"
+msgstr "Kiểm tra hạn ngạch gửi của bạn ngay bây giờ"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:81
+#, fuzzy
+msgid "Check your subscription now"
+msgstr "Kiểm tra đăng ký của bạn ngay bây giờ"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:304
+#, fuzzy
+msgid "Click rate"
+msgstr "Tỷ lệ nhấp chuột"
+
+#: lib/keila_web/live/campaign_stats_live.ex:72
+#: lib/keila_web/templates/campaign/stats_live.html.heex:301
+msgid "Clicks"
+msgstr "Nhấp chuột"
+
+#: lib/keila_web/templates/campaign/index.html.heex:58
+#: lib/keila_web/templates/template/index.html.heex:35
+msgid "Clone"
+msgstr "Clone"
+
+#: lib/keila_web/controllers/campaign_controller.ex:100
+#: lib/keila_web/templates/campaign/clone.html.heex:4
+#, fuzzy
+msgid "Clone Campaign"
+msgstr "Chiến dịch nhân bản"
+
+#: lib/keila_web/controllers/template_controller.ex:74
+#: lib/keila_web/templates/template/clone.html.heex:4
+#, fuzzy
+msgid "Clone Template"
+msgstr "Mẫu sao chép"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:21
+#, fuzzy
+msgid "Close menu"
+msgstr "Đóng menu"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:90
+#: lib/keila_web/templates/campaign/_markdown_editor.html.heex:32
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:129
+#, fuzzy
+msgid "Close preview"
+msgstr "Đóng bản xem trước"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:432
+#, fuzzy
+msgid "Code copied to clipboard."
+msgstr "Mã được sao chép vào khay nhớ tạm."
+
+#: lib/keila_web/controllers/contact_controller.ex:85
+#, fuzzy
+msgid "Confirm Contact Deletion"
+msgstr "Xác nhận xóa liên hệ"
+
+#: lib/keila_web/controllers/form_controller.ex:76
+#, fuzzy
+msgid "Confirm Form Deletion"
+msgstr "Xác nhận xóa biểu mẫu"
+
+#: lib/keila_web/controllers/template_controller.ex:151
+#, fuzzy
+msgid "Confirm Template Deletion"
+msgstr "Xác nhận xóa mẫu"
+
+#: lib/keila_web/controllers/user_admin_controller.ex:57
+#, fuzzy
+msgid "Confirm User Deletion"
+msgstr "Xác nhận xóa người dùng"
+
+#: lib/keila_web/controllers/campaign_controller.ex:171
+#, fuzzy
+msgid "Confirm campaign Deletion"
+msgstr "Xác nhận xóa chiến dịch"
+
+#: lib/keila_web/controllers/contact_controller.ex:24
+#: lib/keila_web/templates/contact/index.html.heex:4
+#: lib/keila_web/templates/layout/_menu.html.heex:67
+#: lib/keila_web/templates/project/show.html.heex:49
+msgid "Contacts"
+msgstr "Liên hệ"
+
+#: lib/keila/templates/default_template.ex:28
+#: lib/keila/templates/hybrid_template.ex:25
+msgid "Content"
+msgstr "Nội dung"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:410
+#: lib/keila_web/templates/form/edit_live.html.heex:421
+msgid "Copy"
+msgstr "Sao chép"
+
+#: lib/keila_web/templates/form/index.html.heex:9
+#: lib/keila_web/templates/project/_empty_state_forms_contacts.html.heex:31
+#, fuzzy
+msgid "Create a new form"
+msgstr "Tạo biểu mẫu mới"
+
+#: lib/keila_web/templates/project/index.html.heex:38
+msgid "Create a new project"
+msgstr "Tạo dự án mới"
+
+#: lib/keila_web/templates/template/index.html.heex:9
+msgid "Create a new template"
+msgstr "Tạo một mẫu mới"
+
+#: lib/keila_web/templates/campaign/new.html.heex:205
+#: lib/keila_web/templates/layout/_menu.html.heex:132
+#, fuzzy
+msgid "Create campaign"
+msgstr "Tạo chiến dịch"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:75
+msgid "Create contact"
+msgstr "Tạo liên hệ"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:116
+msgid "Create template"
+msgstr "Tạo bản mẫu"
+
+#: lib/keila_web/templates/campaign/_empty_state.html.heex:20
+#: lib/keila_web/templates/project/_empty_state_campaigns.html.heex:17
+msgid "Create your first campaign"
+msgstr "Tạo chiến dịch đầu tiên của bạn"
+
+#: lib/keila_web/templates/form/_empty_state.html.heex:23
+#: lib/keila_web/templates/project/_empty_state_forms_contacts.html.heex:29
+#, fuzzy
+msgid "Create your first form"
+msgstr "Tạo biểu mẫu đầu tiên của bạn"
+
+#: lib/keila_web/templates/project/index.html.heex:22
+#, fuzzy
+msgid "Create your first project"
+msgstr "Tạo dự án đầu tiên của bạn"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:62
+#: lib/keila_web/templates/campaign/new.html.heex:37
+#: lib/keila_web/templates/form/edit_live.html.heex:242
+#: lib/keila_web/templates/project/_empty_state_senders.html.heex:20
+#: lib/keila_web/templates/sender/_empty_state.html.heex:22
+#, fuzzy
+msgid "Create your first sender"
+msgstr "Tạo người gửi đầu tiên của bạn"
+
+#: lib/keila_web/templates/template/_empty_state.html.heex:23
+#, fuzzy
+msgid "Create your first template"
+msgstr "Tạo mẫu đầu tiên của bạn"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:118
+#: lib/keila_web/templates/user_admin/show_credits.html.heex:40
+msgid "Date"
+msgstr "Ngày"
+
+#: lib/keila_web/views/template_view.ex:44
+#, fuzzy
+msgid "Decoration"
+msgstr "Huân chương"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:101
+#: lib/keila_web/templates/campaign/new.html.heex:144
+#: lib/keila_web/templates/form/edit_live.html.heex:258
+#: lib/keila_web/views/template_view.ex:70
+msgid "Default"
+msgstr "Mặc định"
+
+#: lib/keila_web/templates/campaign/delete.html.heex:37
+#: lib/keila_web/templates/campaign/edit_live.html.heex:23
+#: lib/keila_web/templates/campaign/stats_live.html.heex:22
+#: lib/keila_web/templates/contact/delete.html.heex:57
+#: lib/keila_web/templates/contact/edit.html.heex:30
+#: lib/keila_web/templates/form/delete.html.heex:37
+#: lib/keila_web/templates/form/edit_live.html.heex:22
+#: lib/keila_web/templates/project/delete.html.heex:40
+#: lib/keila_web/templates/project/edit.html.heex:21
+#: lib/keila_web/templates/segment/delete.html.heex:37
+#: lib/keila_web/templates/segment/edit_live.html.heex:24
+#: lib/keila_web/templates/sender/delete.html.heex:38
+#: lib/keila_web/templates/sender/edit.html.heex:26
+#: lib/keila_web/templates/shared_sender_admin/delete.html.heex:42
+#: lib/keila_web/templates/shared_sender_admin/edit.html.heex:26
+#: lib/keila_web/templates/template/delete.html.heex:38
+#: lib/keila_web/templates/template/edit_live.html.heex:22
+#: lib/keila_web/templates/user_admin/delete.html.heex:37
+msgid "Delete"
+msgstr "Xóa"
+
+#: lib/keila_web/controllers/project_controller.ex:112
+#, fuzzy
+msgid "Delete %{project_name}"
+msgstr "Xóa %{project_name}"
+
+#: lib/keila_web/templates/campaign/delete.html.heex:3
+#, fuzzy
+msgid "Delete Campaigns?"
+msgstr "Xóa chiến dịch?"
+
+#: lib/keila_web/templates/contact/delete.html.heex:3
+#, fuzzy
+msgid "Delete Contacts?"
+msgstr "Xóa danh bạ?"
+
+#: lib/keila_web/templates/form/delete.html.heex:3
+#, fuzzy
+msgid "Delete Forms?"
+msgstr "Xóa biểu mẫu?"
+
+#: lib/keila_web/templates/project/delete.html.heex:3
+#, fuzzy
+msgid "Delete Project %{project}?"
+msgstr "Xóa Project %{project}?"
+
+#: lib/keila_web/templates/sender/delete.html.heex:3
+#: lib/keila_web/views/sender_view.ex:13
+#, fuzzy
+msgid "Delete Sender %{sender}?"
+msgstr "Xóa Người gửi %{người gửi}?"
+
+#: lib/keila_web/templates/template/delete.html.heex:3
+#, fuzzy
+msgid "Delete Templates?"
+msgstr "Xóa mẫu?"
+
+#: lib/keila_web/templates/user_admin/delete.html.heex:3
+#, fuzzy
+msgid "Delete Users?"
+msgstr "Xóa người dùng?"
+
+#: lib/keila_web/templates/contact/_list.html.heex:61
+#, fuzzy
+msgid "Delete all selected contacts"
+msgstr "Xóa tất cả các liên hệ đã chọn"
+
+#: lib/keila_web/templates/campaign/delete.html.heex:27
+#, fuzzy
+msgid "Deleting a campaign cannot be undone."
+msgstr "Bạn không thể hoàn tác việc xóa chiến dịch."
+
+#: lib/keila_web/templates/contact/delete.html.heex:47
+#, fuzzy
+msgid "Deleting a contact cannot be undone."
+msgstr "Không thể hoàn tác việc xóa một số liên lạc."
+
+#: lib/keila_web/templates/form/delete.html.heex:27
+#, fuzzy
+msgid "Deleting a form cannot be undone."
+msgstr "Xóa biểu mẫu không thể hoàn tác."
+
+#: lib/keila_web/templates/project/delete.html.heex:15
+#, fuzzy
+msgid "Deleting a project cannot be undone."
+msgstr "Xóa một dự án không thể hoàn tác."
+
+#: lib/keila_web/templates/sender/delete.html.heex:13
+#, fuzzy
+msgid "Deleting a sender cannot be undone."
+msgstr "Không thể hoàn tác xóa người gửi."
+
+#: lib/keila_web/templates/template/delete.html.heex:28
+#, fuzzy
+msgid "Deleting a template cannot be undone."
+msgstr "Không thể hoàn tác việc xóa mẫu."
+
+#: lib/keila_web/templates/user_admin/delete.html.heex:30
+#, fuzzy
+msgid "Deleting a user cannot be undone."
+msgstr "Không thể hoàn tác việc xóa người dùng."
+
+#: lib/keila_web/templates/campaign/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following campaigns?"
+msgstr "Bạn có thực sự muốn xóa các chiến dịch sau không?"
+
+#: lib/keila_web/templates/contact/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following contacts?"
+msgstr "Bạn có thực sự muốn xóa các liên hệ sau đây không?"
+
+#: lib/keila_web/templates/form/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following forms?"
+msgstr "Bạn có thực sự muốn xóa các biểu mẫu sau đây không?"
+
+#: lib/keila_web/templates/template/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following templates?"
+msgstr "Bạn có thực sự muốn xóa các mẫu sau đây không?"
+
+#: lib/keila_web/templates/user_admin/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following users? This will also delete their projects and contacts."
+msgstr "Bạn có thực sự muốn xóa những người dùng sau đây không? Thao tác này cũng sẽ xóa các dự án và địa chỉ liên hệ của họ."
+
+#: lib/keila_web/templates/contact/edit.html.heex:79
+#, fuzzy
+msgid "Doe"
+msgstr "Doe"
+
+#: lib/keila_web/templates/auth/reset.html.heex:26
+msgid "Don’t have an account?"
+msgstr "Bạn chưa có tài khoản?"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:141
+#: lib/keila_web/templates/contact/import_live.html.heex:162
+#: lib/keila_web/templates/contact/import_live.html.heex:181
+#, fuzzy
+msgid "Download template"
+msgstr "Tải xuống mẫu"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:38
+#: lib/keila_web/templates/campaign/index.html.heex:66
+#: lib/keila_web/templates/form/index.html.heex:33
+#: lib/keila_web/templates/segment/index.html.heex:32
+#: lib/keila_web/templates/template/index.html.heex:42
+msgid "Edit"
+msgstr "Sửa"
+
+#: lib/keila_web/controllers/project_controller.ex:77
+#, fuzzy
+msgid "Edit %{project_name}"
+msgstr "Edit %{project_name}"
+
+#: lib/keila_web/templates/campaign/edit_live.html.heex:5
+msgid "Edit Campaign"
+msgstr "Chỉnh sửa chiến dịch"
+
+#: lib/keila_web/controllers/contact_controller.ex:153
+msgid "Edit Contact"
+msgstr "Sửa liên hệ"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:6
+msgid "Edit Form"
+msgstr "Chỉnh sửa biểu mẫu"
+
+#: lib/keila_web/views/sender_view.ex:8
+#, fuzzy
+msgid "Edit Sender %{sender}"
+msgstr "Sửa %{người gửi}"
+
+#: lib/keila_web/templates/template/edit_live.html.heex:6
+msgid "Edit Template"
+msgstr "Chỉnh sửa Mẫu"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:39
+msgid "Edit this campaign"
+msgstr "Chỉnh sửa chiến dịch này"
+
+#: lib/keila/contacts/contacts.ex:235 lib/keila_web/live/segment_edit_live.ex:7
+#: lib/keila_web/templates/account/edit.html.heex:194
+#: lib/keila_web/templates/auth/register.html.heex:17
+#: lib/keila_web/templates/auth/reset.html.heex:15
+msgid "Email"
+msgstr "Email"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:15
+#, fuzzy
+msgid "Europe (Frankfurt)"
+msgstr "Châu Âu (Frankfurt)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:16
+#, fuzzy
+msgid "Europe (Ireland)"
+msgstr "Châu Âu (Ireland)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:17
+#, fuzzy
+msgid "Europe (London)"
+msgstr "Châu Âu (Luân Đôn)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:18
+#, fuzzy
+msgid "Europe (Paris)"
+msgstr "Châu Âu (Paris)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:19
+#, fuzzy
+msgid "Europe (Stockholm)"
+msgstr "Châu Âu (Stockholm)"
+
+#: lib/keila/contacts/import.ex:153
+#, fuzzy
+msgid "Field %{field}: %{message}"
+msgstr "Trường %{field}: %{message}"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:62
+#: lib/keila_web/templates/form/edit_live.html.heex:134
+msgid "Fields"
+msgstr "Các trường"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:112
+#, fuzzy
+msgid "Fine print"
+msgstr "Bản in đẹp"
+
+#: lib/keila/contacts/contacts.ex:242 lib/keila_web/live/segment_edit_live.ex:8
+#: lib/keila_web/templates/form/edit_live.html.heex:145
+msgid "First name"
+msgstr "Họ"
+
+#: lib/keila_web/views/template_view.ex:41
+msgid "Font"
+msgstr "Font chữ"
+
+#: lib/keila_web/views/template_view.ex:42
+msgid "Font style"
+msgstr "Kiểu font"
+
+#: lib/keila_web/views/template_view.ex:43
+msgid "Font weight"
+msgstr "Font weight"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:105
+#, fuzzy
+msgid "For best results, choose an image that is 600px wide."
+msgstr "Để có kết quả tốt nhất, hãy chọn một hình ảnh có chiều rộng 600px."
+
+#: lib/keila_web/controllers/form_controller.ex:14
+#: lib/keila_web/templates/form/index.html.heex:4
+#: lib/keila_web/templates/layout/_menu.html.heex:95
+#: lib/keila_web/templates/project/show.html.heex:69
+msgid "Forms"
+msgstr "Biểu mẫu"
+
+#: lib/keila/templates/default_template.ex:34
+#: lib/keila/templates/hybrid_template.ex:31
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:46
+msgid "Heading 1"
+msgstr "Phần mở đầu 1"
+
+#: lib/keila/templates/default_template.ex:42
+#: lib/keila/templates/hybrid_template.ex:39
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:53
+msgid "Heading 2"
+msgstr "Phần mở đầu 2"
+
+#: lib/keila/templates/default_template.ex:50
+#: lib/keila/templates/hybrid_template.ex:47
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:60
+msgid "Heading 3"
+msgstr "Tiêu đề (Heading) 3"
+
+#: lib/keila_web/templates/account/edit.html.heex:191
+#, fuzzy
+msgid "Here you can update your Keila password."
+msgstr "Tại đây bạn có thể cập nhật mật khẩu Keila của mình."
+
+#: lib/keila_web/views/public_form_view.ex:104
+#, fuzzy
+msgid "I am human."
+msgstr "Tôi là con người."
+
+#: lib/keila_web/templates/auth/reset.html.heex:12
+#, fuzzy
+msgid "If you’ve forgotten your password, you can request an email to reset it here."
+msgstr "Nếu quên mật khẩu, bạn có thể yêu cầu email đặt lại mật khẩu tại đây."
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:35
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:74
+#: lib/keila_web/views/template_view.ex:40
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:103
+msgid "Image URL"
+msgstr "URL hình ảnh"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:4
+msgid "Import Contacts"
+msgstr "Nhập liên hệ"
+
+#: lib/keila_web/templates/contact/_empty_state.html.heex:23
+#: lib/keila_web/templates/layout/_menu.html.heex:85
+#: lib/keila_web/templates/project/_empty_state_forms_contacts.html.heex:21
+#, fuzzy
+msgid "Import contacts"
+msgstr "Nhập danh bạ"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:158
+msgid "Include"
+msgstr "Bao gồm"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:25
+#, fuzzy
+msgid "Increase indent"
+msgstr "Tăng thụt lề"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:153
+msgid "Insert Button"
+msgstr "挿入ボタン"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:75
+msgid "Insert Image"
+msgstr "Chèn ảnh"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:29
+msgid "Insert Link"
+msgstr "Chèn liên kết"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:91
+msgid "Instructions"
+msgstr "Hướng dẫn"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:69
+#: lib/keila_web/templates/campaign/stats_live.html.heex:91
+#, fuzzy
+msgid "Insufficient email quota."
+msgstr "Không đủ hạn ngạch email."
+
+#: lib/keila_web/templates/form/edit_live.html.heex:100
+#, fuzzy
+msgid "Intro text"
+msgstr "Văn bản giới thiệu"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:72
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:191
+#, fuzzy
+msgid "It looks like you don’t yet have any contacts to receive this campaign."
+msgstr "Có vẻ như bạn chưa có bất kỳ liên hệ nào để nhận chiến dịch này."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:72
+#, fuzzy
+msgid "It looks like you’ve already used up the email quota from your subscription."
+msgstr "Có vẻ như bạn đã sử dụng hết hạn ngạch email từ đăng ký của mình."
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:11
+#, fuzzy
+msgid "Italics"
+msgstr "Nghiêng"
+
+#: lib/keila_web/templates/contact/edit.html.heex:73
+#, fuzzy
+msgid "Jane"
+msgstr "Jane"
+
+#: lib/keila/contacts/contacts.ex:249 lib/keila_web/live/segment_edit_live.ex:9
+#: lib/keila_web/templates/form/edit_live.html.heex:147
+msgid "Last name"
+msgstr "Tên"
+
+#: lib/keila/templates/default_template.ex:23
+#: lib/keila/templates/hybrid_template.ex:21
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:29
+msgid "Layout"
+msgstr "Bố cục"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:67
+msgid "Link"
+msgstr "Liên kết"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:43
+msgid "Link Title"
+msgstr "Tiêu đề liên kết"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:33
+msgid "Link URL"
+msgstr "Liên kết URL"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:397
+#, fuzzy
+msgid "Link to this form"
+msgstr "Nối kết đến biểu mẫu này"
+
+#: lib/keila/templates/default_template.ex:58
+#: lib/keila/templates/hybrid_template.ex:55
+#: lib/keila_web/templates/campaign/stats_live.html.heex:294
+msgid "Links"
+msgstr "Liên kết"
+
+#: lib/keila_web/templates/project/show.html.heex:43
+msgid "Manage Campaigns"
+msgstr "Quản lý chiến dịch"
+
+#: lib/keila_web/templates/project/show.html.heex:53
+msgid "Manage Contacts"
+msgstr "Quản lý tệp các liên hệ"
+
+#: lib/keila_web/templates/project/show.html.heex:73
+msgid "Manage Forms"
+msgstr "Quản Lý Biểu Mẫu"
+
+#: lib/keila_web/templates/project/show.html.heex:96
+#, fuzzy
+msgid "Manage Senders"
+msgstr "Quản lý người gửi"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:75
+#: lib/keila_web/templates/campaign/new.html.heex:95
+msgid "Markdown"
+msgstr "Markdown"
+
+#: lib/keila_web/templates/campaign/clone.html.heex:27
+#: lib/keila_web/templates/campaign/new.html.heex:60
+#, fuzzy
+msgid "My Campaign Subject"
+msgstr "Chủ đề chiến dịch của tôi"
+
+#: lib/keila_web/templates/project/new.html.heex:26
+#, fuzzy
+msgid "My Keila Project"
+msgstr "Dự án Keila của tôi"
+
+#: lib/keila/contacts/contacts.ex:227
+#, fuzzy
+msgid "My New Form"
+msgstr "Biểu mẫu mới của tôi"
+
+#: lib/keila_web/templates/project/edit.html.heex:48
+#, fuzzy
+msgid "My Newsletter Project"
+msgstr "Dự án bản tin của tôi"
+
+#: lib/keila_web/templates/sender/edit.html.heex:54
+#, fuzzy
+msgid "My Sender"
+msgstr "Người gửi của tôi"
+
+#: lib/keila_web/templates/template/new.html.heex:26
+#, fuzzy
+msgid "My Template name"
+msgstr "Tên Mẫu của Tôi"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:88
+#: lib/keila_web/templates/segment/edit_live.html.heex:49
+#: lib/keila_web/templates/template/clone.html.heex:24
+#: lib/keila_web/templates/template/edit_live.html.heex:69
+#: lib/keila_web/templates/template/new.html.heex:23
+msgid "Name"
+msgstr "Tên"
+
+#: lib/keila_web/controllers/campaign_controller.ex:61
+#: lib/keila_web/templates/campaign/new.html.heex:4
+msgid "New Campaign"
+msgstr "Chiến dịch mới"
+
+#: lib/keila_web/templates/contact/edit.html.heex:14
+msgid "New Contact"
+msgstr "Liên hệ mới"
+
+#: lib/keila_web/templates/account/edit.html.heex:204
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: lib/keila_web/controllers/project_controller.ex:54
+#: lib/keila_web/templates/project/new.html.heex:4
+msgid "New Project"
+msgstr "Dự án mới"
+
+#: lib/keila_web/templates/sender/edit.html.heex:9
+#: lib/keila_web/views/sender_view.ex:10
+#, fuzzy
+msgid "New Sender"
+msgstr "Người gửi mới"
+
+#: lib/keila_web/controllers/template_controller.ex:46
+#: lib/keila_web/templates/template/new.html.heex:4
+#, fuzzy
+msgid "New Template"
+msgstr "Mẫu mới"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:69
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:188
+#, fuzzy
+msgid "No Contacts, No Campaign."
+msgstr "Không liên hệ, không có chiến dịch."
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:77
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:196
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:173
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:58
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:137
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:179
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:214
+msgid "Ok"
+msgstr "Đồng ý"
+
+#: lib/keila_web/templates/layout/root.html.heex:14
+#: lib/keila_web/templates/public_form_layout/root.html.heex:15
+#, fuzzy
+msgid "Open Source Newsletter Tool"
+msgstr "Công cụ bản tin mã nguồn mở"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:12
+#, fuzzy
+msgid "Open menu"
+msgstr "Mở menu"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:39
+#, fuzzy
+msgid "Ordered list"
+msgstr "Danh sách đặt hàng"
+
+#: lib/keila_web/templates/auth/register.html.heex:27
+#: lib/keila_web/templates/auth/reset_change_password.html.heex:15
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:19
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:31
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: lib/keila/mailings/sender_adapters/shared_ses.ex:76
+#, fuzzy
+msgid "Please click on the following link to verify your email address %{email} for use with Keila."
+msgstr "Vui lòng nhấp vào liên kết sau để xác minh địa chỉ email %{email} của bạn để sử dụng với Keila."
+
+#: lib/keila_web/templates/auth/registration_disabled.html.heex:10
+#, fuzzy
+msgid "Please contact an administrator."
+msgstr "Vui lòng liên hệ với quản trị viên."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:52
+#, fuzzy
+msgid "Please start a subscription before sending your first campaign."
+msgstr "Vui lòng bắt đầu đăng ký trước khi gửi chiến dịch đầu tiên của bạn."
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:55
+#: lib/keila_web/templates/campaign/_markdown_editor.html.heex:6
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:103
+msgid "Preview"
+msgstr "Xem trước"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:99
+#, fuzzy
+msgid "Ready to schedule your campaign?"
+msgstr "Bạn đã sẵn sàng lên lịch cho chiến dịch của mình chưa?"
+
+#: lib/keila_web/templates/auth/register.html.heex:12
+#, fuzzy
+msgid "Register your Keila account now and start your newsletter project within minutes."
+msgstr "Đăng ký tài khoản Keila của bạn ngay bây giờ và bắt đầu dự án bản tin của bạn trong vòng vài phút."
+
+#: lib/keila_web/templates/auth/registration_disabled.html.heex:7
+#, fuzzy
+msgid "Registration disabled."
+msgstr "Đăng ký bị vô hiệu hóa."
+
+#: lib/keila_web/templates/auth/reset.html.heex:32
+#, fuzzy
+msgid "Remember your password again?"
+msgstr "Bạn lại nhớ mật khẩu của mình?"
+
+#: lib/keila_web/templates/auth/reset.html.heex:22
+#, fuzzy
+msgid "Request password reset"
+msgstr "Yêu cầu đặt lại mật khẩu"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:166
+msgid "Require"
+msgstr "Cần thiết"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:120
+#, fuzzy
+msgid "Require captcha"
+msgstr "Yêu cầu captcha"
+
+#: lib/keila_web/templates/auth/reset_change_password.html.heex:26
+#, fuzzy
+msgid "Reset password now"
+msgstr "Đặt lại mật khẩu ngay bây giờ"
+
+#: lib/keila_web/templates/auth/reset.html.heex:9
+#: lib/keila_web/templates/auth/reset_change_password.html.heex:9
+#, fuzzy
+msgid "Reset your password."
+msgstr "Đặt lại mật khẩu của bạn."
+
+#: lib/keila_web/templates/api_key/new.html.heex:8
+#: lib/keila_web/templates/campaign/clone.html.heex:8
+#: lib/keila_web/templates/campaign/edit_live.html.heex:32
+#: lib/keila_web/templates/contact/edit.html.heex:38
+#: lib/keila_web/templates/form/edit_live.html.heex:30
+#: lib/keila_web/templates/project/edit.html.heex:28
+#: lib/keila_web/templates/project/new.html.heex:8
+#: lib/keila_web/templates/segment/edit_live.html.heex:32
+#: lib/keila_web/templates/segment/new.html.heex:8
+#: lib/keila_web/templates/sender/edit.html.heex:34
+#: lib/keila_web/templates/shared_sender_admin/edit.html.heex:34
+#: lib/keila_web/templates/template/clone.html.heex:8
+#: lib/keila_web/templates/template/edit_live.html.heex:30
+#: lib/keila_web/templates/template/new.html.heex:8
+msgid "Save"
+msgstr "Lưu"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:177
+#: lib/keila_web/templates/campaign/edit_live.html.heex:49
+msgid "Schedule"
+msgstr "Lịch trình"
+
+#: lib/keila_web/templates/campaign/index.html.heex:38
+#, fuzzy
+msgid "Scheduled for:"
+msgstr "Dự kiến cho:"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:33
+#: lib/keila_web/templates/sender/_ses_config.html.heex:45
+msgid "Secret"
+msgstr "Bí mật"
+
+#: lib/keila_web/templates/component/file_manager_live.html.heex:12
+#: lib/keila_web/templates/contact/import_live.html.heex:28
+msgid "Select a file"
+msgstr "ファイルを選択"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:58
+#: lib/keila_web/templates/campaign/edit_live.html.heex:58
+msgid "Send"
+msgstr "Gửi"
+
+#: lib/keila_web/templates/sender/verification_failure.html.heex:4
+#, fuzzy
+msgid "Sender verification not successful."
+msgstr "Xác minh người gửi không thành công."
+
+#: lib/keila_web/templates/sender/verification_success.html.heex:4
+#, fuzzy
+msgid "Sender verified!"
+msgstr "Người gửi đã được xác minh!"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:61
+#: lib/keila_web/templates/layout/_menu.html.heex:149
+#: lib/keila_web/templates/project/show.html.heex:92
+#: lib/keila_web/templates/sender/index.html.heex:4
+#: lib/keila_web/views/sender_view.ex:5
+#, fuzzy
+msgid "Senders"
+msgstr "Người gửi"
+
+#: lib/keila_web/templates/account/edit.html.heex:157
+#, fuzzy
+msgid "Sending Quota"
+msgstr "Hạn ngạch gửi"
+
+#: lib/keila_web/templates/campaign/index.html.heex:30
+#, fuzzy
+msgid "Sent at:"
+msgstr "Gửi tại:"
+
+#: lib/keila_web/templates/auth/reset_change_password.html.heex:12
+#, fuzzy
+msgid "Set a new secure password to keep using Keila."
+msgstr "Đặt mật khẩu an toàn mới để tiếp tục sử dụng Keila."
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:28
+#: lib/keila_web/templates/campaign/edit_live.html.heex:40
+#: lib/keila_web/templates/campaign/edit_live.html.heex:72
+#: lib/keila_web/templates/form/edit_live.html.heex:54
+#: lib/keila_web/templates/form/edit_live.html.heex:84
+#: lib/keila_web/templates/project/show.html.heex:9
+#: lib/keila_web/templates/sender/index.html.heex:33
+#: lib/keila_web/templates/shared_sender_admin/index.html.heex:32
+#: lib/keila_web/templates/template/edit_live.html.heex:55
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: lib/keila_web/templates/auth/register.html.heex:48
+#: lib/keila_web/templates/auth/registration_disabled.html.heex:14
+#, fuzzy
+msgid "Sign in."
+msgstr "Đăng nhập"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:153
+msgid "Sign out"
+msgstr "Đăng xuất"
+
+#: lib/keila_web/templates/auth/register.html.heex:43
+msgid "Sign up now"
+msgstr "Đăng ký ngay"
+
+#: lib/keila_web/templates/auth/reset.html.heex:28
+#, fuzzy
+msgid "Sign up."
+msgstr "Đăng ký"
+
+#: lib/keila/templates/default_template.ex:81
+#: lib/keila_web/templates/template/edit_live.html.heex:74
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: lib/keila/templates/default_template.ex:90
+#, fuzzy
+msgid "Signature links"
+msgstr "Liên kết chữ ký"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:20
+#, fuzzy
+msgid "South America (São Paulo)"
+msgstr "Nam Mỹ (São Paulo)"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:38
+msgid "Start Import"
+msgstr "Bắt đầu nhập"
+
+#: lib/keila_web/templates/auth/register.html.heex:9
+#, fuzzy
+msgid "Start sending emails with Keila now"
+msgstr "Bắt đầu gửi email với Keila ngay bây giờ"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:59
+#: lib/keila_web/templates/form/edit_live.html.heex:320
+#, fuzzy
+msgid "Start your subscription now"
+msgstr "Bắt đầu đăng ký của bạn ngay bây giờ"
+
+#: lib/keila_web/templates/campaign/index.html.heex:74
+msgid "Stats"
+msgstr "Thống kê"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:78
+#: lib/keila_web/templates/form/edit_live.html.heex:328
+#: lib/keila_web/templates/template/edit_live.html.heex:63
+#: lib/keila_web/templates/template/edit_live.html.heex:92
+msgid "Style"
+msgstr "Kiểu"
+
+#: lib/keila_web/templates/campaign/clone.html.heex:24
+#: lib/keila_web/templates/campaign/new.html.heex:57
+msgid "Subject"
+msgstr "Tiêu đề"
+
+#: lib/keila_web/views/public_form_view.ex:124
+msgid "Submit"
+msgstr "Gửi"
+
+#: lib/keila_web/templates/account/edit.html.heex:100
+#, fuzzy
+msgid "Subscribe now and start sending emails!"
+msgstr "Đăng ký ngay bây giờ và bắt đầu gửi email!"
+
+#: lib/keila_web/templates/account/edit.html.heex:5
+msgid "Subscription"
+msgstr "Đăng ký"
+
+#: lib/keila_web/controllers/template_controller.ex:17
+#: lib/keila_web/templates/layout/_menu.html.heex:106
+#: lib/keila_web/templates/project/show.html.heex:79
+#: lib/keila_web/templates/template/index.html.heex:4
+msgid "Templates"
+msgstr "Mẫu"
+
+#: lib/keila_web/views/template_view.ex:38
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:76
+#, fuzzy
+msgid "Text only"
+msgstr "Chỉ văn bản"
+
+#: lib/keila/contacts/contacts.ex:230
+#, fuzzy
+msgid "Thank you for signing up!"
+msgstr "Cảm ơn bạn đã đăng ký!"
+
+#: lib/keila_web/templates/account/await_subscription_live.html.heex:22
+#, fuzzy
+msgid "Thank you for subscribing to Keila!"
+msgstr "Cảm ơn bạn đã đăng ký Keila!"
+
+#: lib/keila_web/templates/sender/verification_success.html.heex:7
+#, fuzzy
+msgid "Thank you for verifying your sender. You can now start sending emails with Keila."
+msgstr "Cảm ơn bạn đã xác minh người gửi của bạn. Bây giờ bạn có thể bắt đầu gửi email với Keila."
+
+#: lib/keila_web/templates/form/edit_live.html.heex:106
+msgid "Thank you message"
+msgstr "Thông báo cảm ơn"
+
+#: lib/keila_web/views/public_form_view.ex:192
+msgid "Thank you!"
+msgstr "Cảm ơn!"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:49
+#: lib/keila_web/templates/form/edit_live.html.heex:310
+#, fuzzy
+msgid "Thanks for trying out Keila!"
+msgstr "Cảm ơn bạn đã dùng thử Keila!"
+
+#: lib/keila/contacts/import.ex:42
+#, fuzzy
+msgid "The file you provided could not be processed."
+msgstr "Không thể xử lý tệp bạn cung cấp."
+
+#: lib/keila_web/templates/sender/_local_config.html.heex:2
+#, fuzzy
+msgid "The local sender adapter is useful for testing during development. Inspect its mailbox at: %{url}"
+msgstr "Bộ điều hợp người gửi cục bộ rất hữu ích để thử nghiệm trong quá trình phát triển. Kiểm tra hộp thư tại: %{url}"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:82
+#, fuzzy
+msgid "There was an error importing your contacts."
+msgstr "Đã xảy ra lỗi khi nhập danh bạ của bạn."
+
+#: lib/keila_web/templates/account/edit.html.heex:33
+#, fuzzy
+msgid "There was an error processing your payment. Please update your payment method to continue using Keila."
+msgstr "Đã xảy ra lỗi khi xử lý thanh toán của bạn. Vui lòng cập nhật phương thức thanh toán của bạn để tiếp tục sử dụng Keila."
+
+#: lib/keila_web/templates/campaign/edit_live.html.heex:81
+#, fuzzy
+msgid "There was an error scheduling your campaign:"
+msgstr "Đã xảy ra lỗi khi lập lịch chiến dịch của bạn:"
+
+#: lib/keila_web/templates/sender/verification_failure.html.heex:7
+#, fuzzy
+msgid "There was an error when trying to verify your sender. Please try again or contact an administrator."
+msgstr "Đã xảy ra lỗi khi cố gắng xác minh người gửi của bạn. Vui lòng thử lại hoặc liên hệ với quản trị viên."
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:41
+#, fuzzy
+msgid "This campaign has already been scheduled. You can manually send it up to five minutes before the scheduled sending time."
+msgstr "Chiến dịch này đã được lên kế hoạch. Bạn có thể gửi thủ công tối đa năm phút trước thời gian gửi theo lịch trình."
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:103
+#, fuzzy
+msgid "This campaign has already been scheduled. You can reschedule or cancel it up to five minutes before the scheduled sending time."
+msgstr "Chiến dịch này đã được lên kế hoạch. Bạn có thể lên lịch lại hoặc hủy tối đa năm phút trước thời gian gửi theo lịch."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:33
+#, fuzzy
+msgid "This campaign has not yet been sent."
+msgstr "Chiến dịch này vẫn chưa được gửi."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:125
+#, fuzzy
+msgid "This campaign is currently being prepared for sending."
+msgstr "Chiến dịch này hiện đang được chuẩn bị để gửi."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:146
+#, fuzzy
+msgid "This campaign is currently being sent out."
+msgstr "Chiến dịch này hiện đang được gửi đi."
+
+#: lib/keila_web/templates/project/delete.html.heex:10
+#, fuzzy
+msgid "This will delete all contacts, campaigns, and forms associated with this project."
+msgstr "Thao tác này sẽ xóa tất cả địa chỉ liên hệ, chiến dịch và biểu mẫu được liên kết với dự án này."
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:129
+#: lib/keila_web/templates/user_admin/show_credits.html.heex:59
+msgid "Time"
+msgstr "Thời gian"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:140
+#: lib/keila_web/templates/user_admin/show_credits.html.heex:71
+msgid "Timezone"
+msgstr "Múi giờ"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:122
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: lib/keila_web/templates/auth/reset.html.heex:34
+#, fuzzy
+msgid "Try signing in."
+msgstr "Thử đăng nhập."
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:92
+#: lib/keila_web/templates/campaign/stats_live.html.heex:298
+msgid "URL"
+msgstr "URL"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:6
+#, fuzzy
+msgid "US East (N. Virginia)"
+msgstr "Miền Đông Hoa Kỳ (Bắc Virginia)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:5
+#, fuzzy
+msgid "US East (Ohio)"
+msgstr "Miền Đông Hoa Kỳ (Ohio)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:7
+#, fuzzy
+msgid "US West (N. California)"
+msgstr "Miền Tây Hoa Kỳ (Bắc California)"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:8
+#, fuzzy
+msgid "US West (Oregon)"
+msgstr "Miền Tây Hoa Kỳ (Oregon)"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:32
+msgid "Unordered list"
+msgstr "Danh sách không sắp xếp"
+
+#: lib/keila_web/templates/campaign/_send_dialogs.html.heex:166
+msgid "Unschedule"
+msgstr "Chưa lên lịch"
+
+#: lib/keila_web/controllers/public_form_controller.ex:122
+#: lib/keila_web/controllers/public_form_controller.ex:142
+msgid "Unsubscribe"
+msgstr "Bỏ đăng ký"
+
+#: lib/keila_web/templates/account/edit.html.heex:211
+msgid "Update password"
+msgstr "Mật khẩu Cập Nhật"
+
+#: lib/keila_web/templates/account/edit.html.heex:87
+#, fuzzy
+msgid "Update payment method"
+msgstr "Cập nhật phương thức thanh toán"
+
+#: lib/keila_web/templates/campaign/index.html.heex:45
+#: lib/keila_web/templates/form/index.html.heex:26
+#: lib/keila_web/templates/segment/index.html.heex:26
+#: lib/keila_web/templates/template/index.html.heex:26
+#, fuzzy
+msgid "Updated at:"
+msgstr "Cập nhật tại:"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:146
+msgid "Users"
+msgstr "Người dùng"
+
+#: lib/keila/mailings/sender_adapters/shared_ses.ex:73
+#, fuzzy
+msgid "Verify Your Email for Keila"
+msgstr "Xác minh email của bạn cho Keila"
+
+#: lib/keila_web/templates/project/index.html.heex:10
+#, fuzzy
+msgid "Welcome to Keila!"
+msgstr "Chào mừng bạn đến với Keila!"
+
+#: lib/keila_web/templates/account/await_subscription_live.html.heex:26
+#, fuzzy
+msgid "We’re currently processing your subscription. This shouldn’t take longer than a minute …"
+msgstr "Chúng tôi hiện đang xử lý đăng ký của bạn. Quá trình này sẽ không mất nhiều thời gian hơn một phút ..."
+
+#: lib/keila_web/templates/account/edit.html.heex:15
+#, fuzzy
+msgid "You currently have an active subscription. Thanks for supporting Keila!"
+msgstr "Bạn hiện có đăng ký đang hoạt động. Cảm ơn bạn đã ủng hộ Keila!"
+
+#: lib/keila_web/views/public_form_view.ex:199
+#, fuzzy
+msgid "You have been unsubscribed from this list."
+msgstr "Bạn đã bị hủy đăng ký khỏi danh sách này."
+
+#: lib/keila_web/templates/contact/import_live.html.heex:70
+#, fuzzy
+msgid "You have successfully imported %{number} contacts!"
+msgstr "Bạn đã nhập thành công %{number} liên hệ!"
+
+#: lib/keila_web/templates/sender/_shared_ses_config.html.heex:7
+#, fuzzy
+msgid "You have verified your email address and can now send emails with this sender."
+msgstr "Bạn đã xác minh địa chỉ email của mình và bây giờ có thể gửi email với người gửi này."
+
+#: lib/keila_web/templates/sender/edit.html.heex:72
+#: lib/keila_web/templates/sender/edit.html.heex:87
+#, fuzzy
+msgid "You, Inc"
+msgstr "Bạn, Inc"
+
+#: lib/keila_web/templates/campaign/edit_live.html.heex:100
+#, fuzzy
+msgid "Your Campaign Subject"
+msgstr "Chủ đề chiến dịch của bạn"
+
+#: lib/keila_web/templates/project/index.html.heex:33
+#, fuzzy
+msgid "Your Projects"
+msgstr "Dự án của bạn"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:94
+#, fuzzy
+msgid "Your email quota is not sufficient for sending this campaign."
+msgstr "Hạn ngạch email của bạn không đủ để gửi chiến dịch này."
+
+#: lib/keila_web/templates/auth/reset_change_password_success.html.heex:4
+#, fuzzy
+msgid "Your password was changed!"
+msgstr "Mật khẩu của bạn đã được thay đổi!"
+
+#: lib/keila_web/templates/account/edit.html.heex:42
+#, fuzzy
+msgid "Your subscription has been cancelled. Please contact us if you want to start a new subscription."
+msgstr "Đăng ký của bạn đã bị hủy. Vui lòng liên hệ với chúng tôi nếu bạn muốn bắt đầu đăng ký mới."
+
+#: lib/keila_web/templates/account/edit.html.heex:24
+#, fuzzy
+msgid "Your subscription is currently suspended. Please update your payment method to continue using Keila."
+msgstr "Đăng ký của bạn hiện đang bị tạm ngưng. Vui lòng cập nhật phương thức thanh toán của bạn để tiếp tục sử dụng Keila."
+
+#: lib/keila_web/views/template_view.ex:95
+msgid "bold"
+msgstr "đậm"
+
+#: lib/keila_web/templates/sender/edit.html.heex:79
+#, fuzzy
+msgid "hello@example.org"
+msgstr "hello@example.org"
+
+#: lib/keila_web/views/template_view.ex:111
+msgid "italic"
+msgstr "nghiêng"
+
+#: lib/keila_web/views/template_view.ex:96
+#: lib/keila_web/views/template_view.ex:142
+msgid "light"
+msgstr "sáng"
+
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:5
+#, fuzzy
+msgid "mail.example.org"
+msgstr "mail.example.org"
+
+#: lib/keila_web/templates/sender/edit.html.heex:64
+#, fuzzy
+msgid "newsletter@example.org"
+msgstr "newsletter@example.org"
+
+#: lib/keila_web/views/template_view.ex:125
+msgid "none"
+msgstr "không"
+
+#: lib/keila_web/views/template_view.ex:94
+#: lib/keila_web/views/template_view.ex:110
+msgid "normal"
+msgstr "bình thường"
+
+#: lib/keila_web/templates/contact/edit.html.heex:64
+#, fuzzy
+msgid "subscriber@example.com"
+msgstr "subscriber@example.com"
+
+#: lib/keila_web/views/template_view.ex:126
+msgid "underlined"
+msgstr "下線"
+
+#: lib/keila/contacts/import.ex:156
+#, fuzzy
+msgid "unknown data error"
+msgstr "Lỗi dữ liệu không xác định"
+
+#: lib/keila_web/templates/account/edit.html.heex:81
+#: lib/keila_web/templates/account/edit.html.heex:134
+#, fuzzy
+msgid "unlimited contacts"
+msgstr "Danh bạ không giới hạn"
+
+#: lib/keila_web/templates/account/edit.html.heex:197
+#: lib/keila_web/templates/auth/login.html.heex:18
+#: lib/keila_web/templates/auth/register.html.heex:20
+#: lib/keila_web/templates/auth/reset.html.heex:17
+#, fuzzy
+msgid "you@keila.io"
+msgstr "you@keila.io"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:147
+#, fuzzy
+msgid "1. Download the template.\n"
+"2. Fill in the template in the same way that the sample data is filled in.\n"
+"2. Click on *File*, then *Save as*. Select *Text CSV (.csv)* and save the file.\n"
+"    In the following dialogue pick:\n"
+"    - **Character set:** *Unicode (UTF-8)*\n"
+"    - **Field delimiter:** *, (Comma)*\n"
+"    - **String delimiter:** *\" (Double Quote)*\n"
+msgstr "1. Tải xuống mẫu.\n"
+"2. Điền vào mẫu giống như cách điền dữ liệu mẫu.\n"
+"2. Nhấp vào * Tệp *, sau đó *Lưu dưới dạng *. Chọn *Text CSV (.csv)* và lưu tệp.\n"
+"    Trong hộp thoại sau, hãy chọn:\n"
+"    - **Bộ ký tự:** *Unicode (UTF-8)*\n"
+"    - **Dấu phân cách trường:** *, (Dấu phẩy)*\n"
+"    - **Dấu phân cách chuỗi:** *\" (Dấu ngoặc kép)*\n"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:129
+#, fuzzy
+msgid "1. Download the template.\n"
+"2. Fill in the template in the same way that the sample data is filled in.\n"
+"3. Click on *File*, then *Save as*.\n"
+"    Select _CSV UTF-8 (comma delimited) (*.csv)_ and save the file.\n"
+msgstr "1. Tải xuống mẫu.\n"
+"2. Điền vào mẫu giống như cách điền dữ liệu mẫu.\n"
+"3. Nhấp vào * Tệp *, sau đó *Lưu dưới dạng *.\n"
+"    Chọn _CSV UTF-8 (phân cách bằng dấu phẩy) (*.csv)_ và lưu tệp.\n"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:168
+#, fuzzy
+msgid "1. Download the template.\n"
+"2. Fill in the template in the same way that the sample data is filled in.\n"
+"3. In order to successfully import contacts, your CSV file needs be RFC 4180 compliant:\n"
+"    - Comma-separated\n"
+"    - UTF-8 encoding\n"
+msgstr "1. Tải xuống mẫu.\n"
+"2. Điền vào mẫu giống như cách điền dữ liệu mẫu.\n"
+"3. Để nhập danh bạ thành công, tệp CSV của bạn cần tuân thủ RFC 4180:\n"
+"    - Phân tách bằng dấu phẩy\n"
+"    - Mã hóa UTF-8\n"
+
+#: lib/keila_web/templates/user_admin/index.html.heex:3
+#, fuzzy
+msgid "Administer Users"
+msgstr "Quản trị người dùng"
+
+#: lib/keila_web/templates/sender/_shared_ses_config.html.heex:21
+#, fuzzy
+msgid "After creating this sender, you will receive an email to verify your email address."
+msgstr "Sau khi tạo người gửi này, bạn sẽ nhận được email để xác minh địa chỉ email của mình."
+
+#: lib/keila_web/templates/error/404.html.heex:10
+#: lib/keila_web/templates/layout/_menu.html.heex:44
+#, fuzzy
+msgid "Back to projects overview"
+msgstr "Quay lại tổng quan về dự án"
+
+#: lib/keila_web/templates/project/_empty_state_senders.html.heex:8
+#, fuzzy
+msgid "Before you can get started, you need to create a *sender*.\n"
+"\n"
+"In the sender settings, you specify the email address\n"
+"and the name from which to send your emails.\n"
+msgstr "Trước khi có thể bắt đầu, bạn cần tạo *người gửi*.\n"
+"\n"
+"Trong cài đặt người gửi, bạn chỉ định địa chỉ email\n"
+"và tên để gửi email của bạn.\n"
+
+#: lib/keila_web/templates/sender/_empty_state.html.heex:10
+#, fuzzy
+msgid "Before you can send any emails, you need to create a *sender*.\n"
+"\n"
+"In the sender settings, you specify the email address\n"
+"and the name  from which you send your emails.\n"
+msgstr "Trước khi bạn có thể gửi bất kỳ email nào, bạn cần tạo *người gửi*.\n"
+"\n"
+"Trong cài đặt người gửi, bạn chỉ định địa chỉ email\n"
+"và tên mà bạn gửi email của mình.\n"
+
+#: lib/keila_web/templates/layout/_footer.html.heex:28
+msgid "Community"
+msgstr "Cộng đồng"
+
+#: lib/keila_web/templates/sender/_ses_config.html.heex:61
+#, fuzzy
+msgid "Configuration Set"
+msgstr "Bộ cấu hình"
+
+#: lib/keila_web/templates/contact/index.html.heex:19
+#: lib/keila_web/templates/sender/index.html.heex:9
+msgid "Create"
+msgstr "Tạo"
+
+#: lib/keila_web/templates/project/_empty_state_templates_campaigns.html.heex:26
+msgid "Create a campaign"
+msgstr "Tạo một chiến dịch"
+
+#: lib/keila_web/templates/project/_empty_state_templates_campaigns.html.heex:6
+#, fuzzy
+msgid "Create engaging designs and campaigns!"
+msgstr "Tạo các thiết kế và chiến dịch hấp dẫn!"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:100
+#, fuzzy
+msgid "Create form"
+msgstr "Tạo biểu mẫu"
+
+#: lib/keila_web/templates/campaign/index.html.heex:9
+msgid "Create new campaign"
+msgstr "Tạo chiến dịch mới"
+
+#: lib/keila_web/templates/project/_empty_state_templates_campaigns.html.heex:19
+#, fuzzy
+msgid "Create your own design"
+msgstr "Tạo thiết kế của riêng bạn"
+
+#: lib/keila_web/templates/layout/_footer.html.heex:15
+msgid "Docs"
+msgstr "Tài liệu"
+
+#: lib/keila_web/templates/project/_empty_state_forms_contacts.html.heex:6
+#, fuzzy
+msgid "Grow your audience with Keila!"
+msgstr "Tăng lượng khán giả của bạn với Keila!"
+
+#: lib/keila_web/templates/project/_empty_state_forms_contacts.html.heex:8
+#, fuzzy
+msgid "If you already have an existing audience for your newsletter,\n"
+"you can use the *Import Contacts* feature or manually create a new contact.\n"
+"\n"
+"You can also invite new people to subscribe and create a\n"
+"sign-up *form*.\n"
+msgstr "Nếu bạn đã có đối tượng hiện tại cho bản tin của mình,\n"
+"bạn có thể sử dụng tính năng *Nhập danh bạ* hoặc tạo liên hệ mới theo cách thủ công.\n"
+"\n"
+"Bạn cũng có thể mời những người mới đăng ký và tạo\n"
+"Đăng ký *biểu mẫu*.\n"
+
+#: lib/keila_web/templates/contact/_empty_state.html.heex:10
+#, fuzzy
+msgid "If you already have an existing audience for your newsletter,\n"
+"you can use the *Import Contacts* feature.\n"
+"\n"
+"If you just want to try things out, you can also manually add\n"
+"new contacts.\n"
+msgstr "Nếu bạn đã có đối tượng hiện tại cho bản tin của mình,\n"
+"bạn có thể sử dụng tính năng *Nhập Danh bạ*.\n"
+"\n"
+"Nếu bạn chỉ muốn thử mọi thứ, bạn cũng có thể thêm thủ công\n"
+"liên hệ mới.\n"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:11
+#: lib/keila_web/templates/contact/index.html.heex:15
+msgid "Import"
+msgstr "Nhập"
+
+#: lib/keila_web/templates/template/_empty_state.html.heex:10
+#, fuzzy
+msgid "Keila comes with a great default template so you don’t have\n"
+"to become a designer before you start sending emails.\n"
+"\n"
+"But if you want a more personalized look for your campaigns,\n"
+"create your own design with the template editor.\n"
+msgstr "Keila đi kèm với một mẫu mặc định tuyệt vời để bạn không có\n"
+"để trở thành một nhà thiết kế trước khi bạn bắt đầu gửi email.\n"
+"\n"
+"Nhưng nếu bạn muốn giao diện được cá nhân hóa hơn cho các chiến dịch của mình,\n"
+"Tạo thiết kế của riêng bạn với trình chỉnh sửa mẫu.\n"
+
+#: lib/keila_web/templates/project/index.html.heex:12
+#, fuzzy
+msgid "Keila organizes contacts, forms, and campaigns in *projects*.\n"
+"\n"
+"You can create multiple projects, e.g. if you want\n"
+"to separate your gardening business newsletter from\n"
+"your chess club member list.\n"
+msgstr "Keila tổ chức các liên hệ, biểu mẫu và chiến dịch trong * dự án *.\n"
+"\n"
+"Bạn có thể tạo nhiều dự án, ví dụ: nếu bạn muốn\n"
+"Để tách bản tin kinh doanh làm vườn của bạn khỏi\n"
+"Danh sách thành viên Câu lạc bộ cờ vua của bạn.\n"
+
+#: lib/keila_web/templates/project/_empty_state_senders.html.heex:6
+#, fuzzy
+msgid "Let’s get started!"
+msgstr "Bắt đầu nào!"
+
+#: lib/keila_web/templates/project/show.html.heex:86
+#, fuzzy
+msgid "Manage Templates"
+msgstr "Quản lý mẫu"
+
+#: lib/keila_web/templates/contact/_empty_state.html.heex:30
+#, fuzzy
+msgid "Manually create new contact"
+msgstr "Tạo liên hệ mới theo cách thủ công"
+
+#: lib/keila_web/templates/auth/register.html.heex:29
+#: lib/keila_web/templates/auth/reset_change_password.html.heex:17
+#, fuzzy
+msgid "Must have at least 10 characters."
+msgstr "Phải có ít nhất 10 ký tự."
+
+#: lib/keila_web/templates/contact/import_live.html.heex:96
+#, fuzzy
+msgid "Please follow the **exact** instructions on this page.\n"
+"Incorrectly formatted files can not be imported.\n"
+msgstr "Vui lòng làm theo hướng dẫn **chính xác** trên trang này.\n"
+"Không thể nhập các tệp được định dạng không chính xác.\n"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:56
+#: lib/keila_web/templates/project/edit.html.heex:6
+#, fuzzy
+msgid "Project settings"
+msgstr "Cài đặt dự án"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:35
+msgid "Projects"
+msgstr "Dự án"
+
+#: lib/keila_web/templates/project/_empty_state_campaigns.html.heex:6
+#, fuzzy
+msgid "Ready, set, send!"
+msgstr "Sẵn sàng, thiết lập, gửi!"
+
+#: lib/keila_web/templates/campaign/_empty_state.html.heex:10
+#, fuzzy
+msgid "Use the campaign editor to create, schedule, and send campaigns\n"
+"to your contacts.\n"
+msgstr "Sử dụng trình chỉnh sửa chiến dịch để tạo, lên lịch và gửi chiến dịch\n"
+"vào danh bạ của bạn.\n"
+
+#: lib/keila_web/templates/api_key/_empty_state.html.heex:8
+#: lib/keila_web/templates/campaign/_empty_state.html.heex:8
+#: lib/keila_web/templates/component/file_manager_live.html.heex:43
+#: lib/keila_web/templates/contact/_empty_state.html.heex:8
+#: lib/keila_web/templates/form/_empty_state.html.heex:8
+#: lib/keila_web/templates/segment/_empty_state.html.heex:8
+#: lib/keila_web/templates/sender/_empty_state.html.heex:8
+#: lib/keila_web/templates/template/_empty_state.html.heex:8
+#, fuzzy
+msgid "Wow, such empty!"
+msgstr "Wow, trống rỗng như vậy!"
+
+#: lib/keila_web/templates/contact/edit.html.heex:85
+#, fuzzy
+msgid "You can add any JSON object as custom data to your contacts."
+msgstr "Bạn có thể thêm bất kỳ đối tượng JSON nào dưới dạng dữ liệu tùy chỉnh vào danh bạ của mình."
+
+#: lib/keila_web/templates/form/_empty_state.html.heex:10
+#, fuzzy
+msgid "You can create one or multiple forms to let new contacts sign\n"
+"up to your newsletter.\n"
+"\n"
+"With the form editor, you can customize the look & feel of the\n"
+"forms and decide which input fields to include.\n"
+msgstr "Bạn có thể tạo một hoặc nhiều biểu mẫu để cho phép các liên hệ mới đăng nhập\n"
+"lên đến bản tin của bạn.\n"
+"\n"
+"Với trình chỉnh sửa biểu mẫu, bạn có thể tùy chỉnh giao diện của\n"
+"biểu mẫu và quyết định trường đầu vào nào sẽ bao gồm.\n"
+
+#: lib/keila_web/templates/project/_empty_state_templates_campaigns.html.heex:8
+#, fuzzy
+msgid "You can get started sending campaigns with Keila’s default template now.\n"
+"\n"
+"To create your design, you can use the template editor.\n"
+msgstr "Bạn có thể bắt đầu gửi chiến dịch với mẫu mặc định của Keila ngay bây giờ.\n"
+"\n"
+"Để tạo thiết kế của bạn, bạn có thể sử dụng trình chỉnh sửa mẫu.\n"
+
+#: lib/keila_web/templates/sender/_shared_ses_config.html.heex:17
+#, fuzzy
+msgid "You need to verify your email address before you can send emails with this sender."
+msgstr "Bạn cần xác minh địa chỉ email của mình trước khi có thể gửi email với người gửi này."
+
+#: lib/keila_web/templates/project/_empty_state_campaigns.html.heex:8
+#, fuzzy
+msgid "You’re ready to send your first campaign with Keila.\n"
+msgstr "Bạn đã sẵn sàng gửi chiến dịch đầu tiên của mình với Keila.\n"
+
+#: lib/keila_web/templates/contact/_tabs.html.heex:9
+msgid "active subscribers"
+msgstr "người đăng ký đang hoạt động"
+
+#: lib/keila_web/templates/contact/edit.html.heex:156
+#, fuzzy
+msgid "clicked campaign link"
+msgstr "Liên kết chiến dịch đã nhấp vào"
+
+#: lib/keila_web/templates/contact/edit.html.heex:142
+msgid "created"
+msgstr "đã tạo"
+
+#: lib/keila_web/templates/contact/edit.html.heex:144
+msgid "imported"
+msgstr "đã nhập"
+
+#: lib/keila_web/templates/contact/edit.html.heex:154
+#, fuzzy
+msgid "opened campaign"
+msgstr "Chiến dịch đã mở"
+
+#: lib/keila_web/templates/contact/edit.html.heex:146
+msgid "subscribed"
+msgstr "đã đăng ký"
+
+#: lib/keila_web/templates/contact/_tabs.html.heex:29
+#, fuzzy
+msgid "unreachable contacts"
+msgstr "Danh bạ không thể truy cập được"
+
+#: lib/keila_web/templates/contact/edit.html.heex:158
+msgid "unsubscribed"
+msgstr "hủy đăng ký"
+
+#: lib/keila_web/templates/contact/_tabs.html.heex:19
+#, fuzzy
+msgid "unsubscribed contacts"
+msgstr "Người liên hệ đã hủy đăng ký"
+
+#: lib/keila_web/templates/contact/edit.html.heex:148
+#, fuzzy
+msgid "with captcha"
+msgstr "Với Captcha"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:135
+#: lib/keila_web/templates/campaign/new.html.heex:50
+#, fuzzy
+msgid "All Contacts"
+msgstr "Tất cả địa chỉ liên hệ"
+
+#: lib/keila_web/controllers/segment_controller.ex:69
+#, fuzzy
+msgid "Confirm Segment Deletion"
+msgstr "Xác nhận xóa phân đoạn"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:163
+#, fuzzy
+msgid "Contacts in this segment (%{count})"
+msgstr "Liên hệ trong phân đoạn này (%{count})"
+
+#: lib/keila_web/templates/segment/index.html.heex:9
+msgid "Create a new segment"
+msgstr "Tạo một phân khúc mới"
+
+#: lib/keila_web/templates/segment/_empty_state.html.heex:22
+#, fuzzy
+msgid "Create your first segment"
+msgstr "Tạo phân khúc đầu tiên của bạn"
+
+#: lib/keila_web/live/segment_edit_live.ex:11
+#, fuzzy
+msgid "Custom data"
+msgstr "Dữ liệu tùy chỉnh"
+
+#: lib/keila_web/live/segment_edit_live.ex:6
+msgid "Date added"
+msgstr "Ngày thêm"
+
+#: lib/keila_web/templates/segment/delete.html.heex:3
+#, fuzzy
+msgid "Delete Segments?"
+msgstr "Xóa phân đoạn?"
+
+#: lib/keila_web/templates/segment/delete.html.heex:27
+#, fuzzy
+msgid "Deleting a segment cannot be undone."
+msgstr "Bạn không thể hoàn tác việc xóa một phân đoạn."
+
+#: lib/keila_web/templates/segment/delete.html.heex:10
+#, fuzzy
+msgid "Do you really want to delete the following segments?"
+msgstr "Bạn có thực sự muốn xóa các phân đoạn sau không?"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:6
+#, fuzzy
+msgid "Edit Segment"
+msgstr "Chỉnh sửa phân đoạn"
+
+#: lib/keila_web/views/segment_view.ex:85
+#, fuzzy
+msgid "Field:"
+msgstr "Trường:"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:57
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:154
+#, fuzzy
+msgid "Invalid filter"
+msgstr "Bộ lọc không hợp lệ"
+
+#: lib/keila_web/views/segment_view.ex:95
+#, fuzzy
+msgid "Match:"
+msgstr "Diêm:"
+
+#: lib/keila_web/templates/segment/new.html.heex:26
+#, fuzzy
+msgid "My Contact Segment"
+msgstr "Phân đoạn liên hệ của tôi"
+
+#: lib/keila_web/templates/segment/new.html.heex:4
+#, fuzzy
+msgid "New Segment"
+msgstr "Phân khúc mới"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:121
+msgid "Query"
+msgstr "Truy vấn"
+
+#: lib/keila_web/templates/layout/_menu.html.heex:91
+#: lib/keila_web/templates/project/show.html.heex:59
+#: lib/keila_web/templates/segment/index.html.heex:4
+msgid "Segments"
+msgstr "Phân đoạn"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:139
+#, fuzzy
+msgid "This query can only be edited manually."
+msgstr "Truy vấn này chỉ có thể được chỉnh sửa thủ công."
+
+#: lib/keila_web/templates/segment/_empty_state.html.heex:10
+#, fuzzy
+msgid "You can create Segments to define subsets of your contacts.\n"
+"\n"
+"This allows you to send campaigns only to those contacts who\n"
+"fulfill certain criteria.\n"
+msgstr "Bạn có thể tạo Phân đoạn để xác định tập hợp con của danh bạ.\n"
+"\n"
+"Điều này cho phép bạn chỉ gửi chiến dịch cho những người liên hệ\n"
+"đáp ứng các tiêu chí nhất định.\n"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:130
+msgid "edit"
+msgstr "sửa"
+
+#: lib/keila_web/live/segment_edit_live.ex:22
+msgid "ends with"
+msgstr "kết thúc với"
+
+#: lib/keila_web/live/segment_edit_live.ex:23
+msgid "includes"
+msgstr "bao gồm"
+
+#: lib/keila_web/live/segment_edit_live.ex:17
+#, fuzzy
+msgid "is after"
+msgstr "là sau"
+
+#: lib/keila_web/live/segment_edit_live.ex:16
+#, fuzzy
+msgid "is before"
+msgstr "là trước"
+
+#: lib/keila_web/live/segment_edit_live.ex:20
+#, fuzzy
+msgid "is equal"
+msgstr "là bằng nhau"
+
+#: lib/keila_web/live/segment_edit_live.ex:26
+msgid "matches"
+msgstr "phù hợp"
+
+#: lib/keila_web/live/segment_edit_live.ex:21
+msgid "starts with"
+msgstr "bắt đầu với"
+
+#: lib/keila_web/templates/segment/edit_live.html.heex:133
+#, fuzzy
+msgid "use filter editor"
+msgstr "Sử dụng trình chỉnh sửa bộ lọc"
+
+#: lib/keila/contacts/import.ex:161
+#, fuzzy
+msgid "Error importing contact in line %{line} (email: %{email}): %{message}"
+msgstr "Lỗi khi nhập liên hệ trong dòng %{line} (email: %{email}): %{message}"
+
+#: lib/keila_web/templates/project/show.html.heex:63
+#, fuzzy
+msgid "Manage Segments"
+msgstr "Quản lý phân khúc"
+
+#: lib/keila_web/templates/api_key/index.html.heex:9
+#, fuzzy
+msgid "API Docs"
+msgstr "Tài liệu API"
+
+#: lib/keila_web/templates/api_key/index.html.heex:4
+#: lib/keila_web/templates/layout/_menu.html.heex:138
+msgid "API Keys"
+msgstr "API Key"
+
+#: lib/keila_web/templates/api_key/index.html.heex:13
+#, fuzzy
+msgid "Create a new API Key"
+msgstr "Tạo khóa API mới"
+
+#: lib/keila_web/templates/api_key/_empty_state.html.heex:20
+#, fuzzy
+msgid "Create your first API key"
+msgstr "Tạo khóa API đầu tiên của bạn"
+
+#: lib/keila_web/templates/api_key/index.html.heex:40
+#, fuzzy
+msgid "Important: The private API Key is displayed only once and cannot be recovered."
+msgstr "Quan trọng: Khóa API riêng tư chỉ hiển thị một lần và không thể khôi phục được."
+
+#: lib/keila_web/templates/api_key/new.html.heex:27
+#, fuzzy
+msgid "My API Key"
+msgstr "Khóa API của tôi"
+
+#: lib/keila_web/templates/api_key/new.html.heex:4
+#, fuzzy
+msgid "New API Key"
+msgstr "Khóa API mới"
+
+#: lib/keila_web/templates/api_key/index.html.heex:27
+#, fuzzy
+msgid "New API key created:"
+msgstr "Đã tạo khóa API mới:"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:49
+#: lib/keila_web/templates/form/edit_live.html.heex:218
+#, fuzzy
+msgid "Please select a sender"
+msgstr "Vui lòng chọn người gửi"
+
+#: lib/keila_web/templates/contact/import_live.html.heex:47
+#, fuzzy
+msgid "Replace duplicates"
+msgstr "Thay thế các bản sao"
+
+#: lib/keila_web/templates/api_key/index.html.heex:96
+msgid "Revoke"
+msgstr "Thu hồi"
+
+#: lib/keila_web/templates/api_key/index.html.heex:37
+#, fuzzy
+msgid "The following is your private API Key. Use it to authorize API calls."
+msgstr "Sau đây là Khóa API riêng tư của bạn. Sử dụng nó để ủy quyền các lệnh gọi API."
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:151
+#: lib/keila_web/templates/campaign/new.html.heex:187
+#, fuzzy
+msgid "You can add any JSON object as custom data to your campaign."
+msgstr "Bạn có thể thêm bất kỳ đối tượng JSON nào làm dữ liệu tùy chỉnh vào chiến dịch của mình."
+
+#: lib/keila_web/templates/campaign/edit_live.html.heex:67
+#, fuzzy
+msgid "You must specify a sender before sending/scheduling a campaign."
+msgstr "Bạn phải chỉ định người gửi trước khi gửi/lên lịch chiến dịch."
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:199
+msgid "Code"
+msgstr "Mã"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:195
+msgid "Insert Code"
+msgstr "Nhập mã"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:95
+msgid "Insert code"
+msgstr "Nhúng code"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:263
+#, fuzzy
+msgid "Read more about [how to use Liquid in Keila](https://www.keila.io/docs/campaigns#liquid-templating)\n"
+"or about [custom contact data](https://www.keila.io/docs/contacts#contact-data).\n"
+msgstr "Đọc thêm về [cách sử dụng Liquid trong Keila](https://www.keila.io/docs/campaigns#liquid-templating)\n"
+"hoặc về [dữ liệu liên hệ tùy chỉnh](https://www.keila.io/docs/contacts#contact-data).\n"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:224
+#, fuzzy
+msgid "You can insert data from your contacts or your campaign\n"
+"using the [Liquid template language](https://shopify.github.io/liquid/basics/introduction/).\n"
+msgstr "Bạn có thể chèn dữ liệu từ danh bạ hoặc chiến dịch của mình\n"
+"sử dụng [Ngôn ngữ mẫu Liquid](https://shopify.github.io/liquid/basics/introduction/).\n"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:18
+msgid "Decrease indent"
+msgstr "Thụt đầu dòng"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:149
+#: lib/keila_web/templates/campaign/new.html.heex:185
+#, fuzzy
+msgid "Campaign data"
+msgstr "Dữ liệu chiến dịch"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:88
+#: lib/keila_web/templates/campaign/new.html.heex:132
+#, fuzzy
+msgid "Enable rich text editor"
+msgstr "Bật trình soạn thảo văn bản đa dạng thức"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:129
+#: lib/keila_web/templates/campaign/new.html.heex:44
+msgid "Segment"
+msgstr "Phân đoạn"
+
+#: lib/keila_web/templates/campaign/new.html.heex:20
+msgid "Sender"
+msgstr "Người gửi"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:95
+#: lib/keila_web/templates/campaign/new.html.heex:138
+#: lib/keila_web/templates/form/edit_live.html.heex:252
+msgid "Template"
+msgstr "Bản mẫu"
+
+#: lib/keila_web/templates/account/edit.html.heex:223
+msgid "Change Language"
+msgstr "Đổi ngôn ngữ"
+
+#: lib/keila_web/templates/account/edit.html.heex:229
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: lib/keila_web/templates/account/edit.html.heex:236
+#, fuzzy
+msgid "Update language settings"
+msgstr "Cập nhật cài đặt ngôn ngữ"
+
+#: lib/keila_web/views/template_view.ex:46
+msgid "Border color"
+msgstr "Màu đường viền"
+
+#: lib/keila_web/views/template_view.ex:45
+msgid "Border style"
+msgstr "Kiểu viền"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:144
+#: lib/keila_web/templates/campaign/new.html.heex:177
+#, fuzzy
+msgid "Enable click/open tracking"
+msgstr "Bật theo dõi nhấp / mở"
+
+#: lib/keila_web/templates/account/edit.html.heex:226
+#, fuzzy
+msgid "Here you can change the language for the Keila interface."
+msgstr "Tại đây bạn có thể thay đổi ngôn ngữ cho giao diện Keila."
+
+#: lib/keila_web/views/template_view.ex:48
+msgid "Margin"
+msgstr "Margin"
+
+#: lib/keila_web/templates/template/clone.html.heex:26
+#, fuzzy
+msgid "My template name"
+msgstr "Tên mẫu của tôi"
+
+#: lib/keila_web/templates/sender/_shared_local_config.html.heex:6
+#, fuzzy
+msgid "No configuration is required for this sender."
+msgstr "Không cần cấu hình cho người gửi này."
+
+#: lib/keila_web/views/template_view.ex:47
+msgid "Opacity"
+msgstr "Độ mờ"
+
+#: lib/keila/templates/default_template.ex:74
+#: lib/keila/templates/hybrid_template.ex:76
+#: lib/keila_web/templates/campaign/_wysiwyg_editor.html.heex:88
+msgid "Spacer"
+msgstr "Thanh phân cách"
+
+#: lib/keila_web/templates/component/file_manager_live.html.heex:27
+#, fuzzy
+msgid "Start Upload"
+msgstr "Bắt đầu tải lên"
+
+#: lib/keila_web/views/template_view.ex:49
+msgid "Text alignment"
+msgstr "Căn chỉnh văn bản"
+
+#: lib/keila_web/templates/component/file_manager_live.html.heex:3
+msgid "Upload a new file"
+msgstr "Tải lên một tập tin mới"
+
+#: lib/keila_web/templates/campaign/_wysiwyg_dialogs.html.heex:84
+msgid "Uploads"
+msgstr "Tải lên"
+
+#: lib/keila_web/templates/component/file_manager_live.html.heex:45
+#, fuzzy
+msgid "Use the upload form to upload your first image.\n"
+msgstr "Sử dụng biểu mẫu tải lên để tải lên hình ảnh đầu tiên của bạn.\n"
+
+#: lib/keila_web/templates/api_key/_empty_state.html.heex:10
+#, fuzzy
+msgid "With API keys, you can use the Keila API to manage campaigns\n"
+"and contacts programmatically.\n"
+msgstr "Với khóa API, bạn có thể sử dụng API Keila để quản lý các chiến dịch\n"
+"và liên hệ theo chương trình.\n"
+
+#: lib/keila_web/views/template_view.ex:144
+#, fuzzy
+msgid "almost opaque"
+msgstr "gần như mờ đục"
+
+#: lib/keila_web/views/template_view.ex:193
+#, fuzzy
+msgid "centered"
+msgstr "Trung tâm"
+
+#: lib/keila_web/views/template_view.ex:161
+msgid "dashed"
+msgstr "nét gạch"
+
+#: lib/keila_web/views/template_view.ex:160
+msgid "dotted"
+msgstr "nét chấm"
+
+#: lib/keila_web/views/template_view.ex:191
+#, fuzzy
+msgid "flush left"
+msgstr "tuôn ra bên trái"
+
+#: lib/keila_web/views/template_view.ex:192
+#, fuzzy
+msgid "flush right"
+msgstr "tuôn ra đúng cách"
+
+#: lib/keila_web/views/template_view.ex:140
+#, fuzzy
+msgid "invisible"
+msgstr "vô hình"
+
+#: lib/keila_web/views/template_view.ex:194
+msgid "justified"
+msgstr "anh đều"
+
+#: lib/keila_web/views/template_view.ex:177
+msgid "large"
+msgstr "lớn"
+
+#: lib/keila_web/views/template_view.ex:143
+#: lib/keila_web/views/template_view.ex:176
+msgid "medium"
+msgstr "trung bình"
+
+#: lib/keila_web/views/template_view.ex:145
+msgid "opaque"
+msgstr "mờ"
+
+#: lib/keila_web/views/template_view.ex:175
+msgid "small"
+msgstr "nhỏ"
+
+#: lib/keila_web/views/template_view.ex:159
+msgid "solid"
+msgstr "nét liền"
+
+#: lib/keila_web/views/template_view.ex:141
+#, fuzzy
+msgid "very light"
+msgstr "rất nhẹ"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:281
+#, fuzzy
+msgid "24-Hour Performance"
+msgstr "Hiệu suất 24 giờ"
+
+#: lib/keila_web/templates/api_key/index.html.heex:65
+#, fuzzy
+msgid "API key copied to clipboard"
+msgstr "Khóa API được sao chép vào khay nhớ tạm"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:26
+#, fuzzy
+msgid "Add content to this column here …"
+msgstr "Thêm nội dung vào cột này tại đây ..."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:11
+msgid "Back"
+msgstr "Quay lại"
+
+#: lib/keila_web/templates/campaign/new.html.heex:111
+msgid "Block"
+msgstr "Khối"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:77
+#, fuzzy
+msgid "Block Editor"
+msgstr "Trình chỉnh sửa khối"
+
+#: lib/keila/templates/hybrid_template.ex:60
+msgid "Buttons"
+msgstr "Nút"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:120
+#: lib/keila_web/templates/campaign/new.html.heex:163
+#, fuzzy
+msgid "Can you summarize your campaign in 50 characters?"
+msgstr "Bạn có thể tóm tắt chiến dịch của mình trong 50 ký tự không?"
+
+#: lib/keila_web/templates/campaign/new.html.heex:71
+#, fuzzy
+msgid "Choose Your Editor"
+msgstr "Chọn trình chỉnh sửa của bạn"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:12
+#, fuzzy
+msgid "Click here to select an image."
+msgstr "Nhấp vào đây để chọn một hình ảnh."
+
+#: lib/keila_web/templates/api_key/index.html.heex:58
+msgid "Copy to clipboard"
+msgstr "Sao chép vào bộ nhớ tạm thời"
+
+#: lib/keila_web/templates/campaign/new.html.heex:116
+#, fuzzy
+msgid "Create stunning emails with multi-column layouts with the Block editor."
+msgstr "Tạo email tuyệt đẹp với bố cục nhiều cột với trình chỉnh sửa Khối."
+
+#: lib/keila_web/templates/contact/index.html.heex:10
+#: lib/keila_web/templates/segment/edit_live.html.heex:174
+msgid "Download"
+msgstr "Tải xuống"
+
+#: lib/keila/templates/hybrid_template.ex:83
+msgid "Footer"
+msgstr "Chân trang"
+
+#: lib/keila/templates/hybrid_template.ex:92
+#, fuzzy
+msgid "Footer links"
+msgstr "Liên kết chân trang"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:17
+#, fuzzy
+msgid "Image caption (optional)"
+msgstr "Chú thích hình ảnh (tùy chọn)"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:20
+#, fuzzy
+msgid "Link for this image (optional)"
+msgstr "Liên kết cho hình ảnh này (tùy chọn)"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:44
+#, fuzzy
+msgid "Make centered"
+msgstr "Làm trung tâm"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:47
+#, fuzzy
+msgid "Make full width"
+msgstr "Tạo chiều rộng đầy đủ"
+
+#: lib/keila_web/live/campaign_stats_live.ex:67
+msgid "Opens"
+msgstr "Mở"
+
+#: lib/keila_web/templates/campaign/new.html.heex:79
+msgid "Plain Text"
+msgstr "Văn bản thuần"
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:111
+#: lib/keila_web/templates/campaign/new.html.heex:154
+msgid "Preview Text"
+msgstr "Xem trước văn bản (text)"
+
+#: lib/keila/templates/hybrid_template.ex:74
+#, fuzzy
+msgid "Quote Attribution"
+msgstr "Ghi công trích dẫn"
+
+#: lib/keila/templates/hybrid_template.ex:73
+msgid "Quote Text"
+msgstr "Đoạn trích dẫn"
+
+#: lib/keila/templates/hybrid_template.ex:71
+msgid "Quotes"
+msgstr "Trích dẫn"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:32
+msgid "Separator"
+msgstr "Dấu phân cách"
+
+#: lib/keila_web/templates/campaign/_block_editor.html.heex:23
+#, fuzzy
+msgid "Start creating your newsletter here …"
+msgstr "Bắt đầu tạo bản tin của bạn tại đây ..."
+
+#: lib/keila_web/views/template_view.ex:71
+msgid "System"
+msgstr "Hệ thống"
+
+#: lib/keila_web/templates/campaign/new.html.heex:84
+#, fuzzy
+msgid "The simplest type of email. Text and nothing else. No images, no links, just text."
+msgstr "Loại email đơn giản nhất. Văn bản và không có gì khác. Không hình ảnh, không liên kết, chỉ có văn bản."
+
+#: lib/keila_web/controllers/contact_controller.ex:32
+#: lib/keila_web/controllers/contact_controller.ex:40
+#, fuzzy
+msgid "Unsubscribed Contacts"
+msgstr "Liên hệ đã hủy đăng ký"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:220
+#, fuzzy
+msgid "Untracked Campaign"
+msgstr "Chiến dịch không được theo dõi"
+
+#: lib/keila_web/templates/campaign/new.html.heex:100
+#, fuzzy
+msgid "Use the Markdown editor to create beautiful single-column hybrid emails."
+msgstr "Sử dụng trình chỉnh sửa Markdown để tạo email kết hợp một cột đẹp mắt."
+
+#: lib/keila_web/templates/campaign/_settings_dialog.html.heex:113
+#: lib/keila_web/templates/campaign/new.html.heex:156
+#, fuzzy
+msgid "Users see this preview before they open your email. Use up to 50 characters."
+msgstr "Người dùng nhìn thấy bản xem trước này trước khi họ mở email của bạn. Sử dụng tối đa 50 ký tự."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:222
+#, fuzzy
+msgid "You have disabled tracking for this campaign. Thanks for respecting the privacy of your recipients!"
+msgstr "Bạn đã tắt tính năng theo dõi cho chiến dịch này. Cảm ơn bạn đã tôn trọng quyền riêng tư của người nhận!"
+
+#: lib/keila_web/templates/template/edit_live.html.heex:76
+#, fuzzy
+msgid "You may use Liquid and Markdown in the signature. Use `[Unsubscribe]({{ unsubscribe_link }})` to include the unsubscribe link."
+msgstr "Bạn có thể sử dụng Liquid và Markdown trong chữ ký. Sử dụng '[Hủy đăng ký]({{ unsubscribe_link }})' để bao gồm liên kết hủy đăng ký."
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:251
+#, fuzzy
+msgid "bounces"
+msgstr "bị trả lại"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:267
+#, fuzzy
+msgid "complaints"
+msgstr "Than phiền"
+
+#: lib/keila_web/templates/contact/edit.html.heex:160
+#, fuzzy
+msgid "email bounced"
+msgstr "Email bị trả lại"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:203
+#, fuzzy
+msgid "emails clicked"
+msgstr "email đã nhấp vào"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:187
+#, fuzzy
+msgid "emails opened"
+msgstr "Email đã mở"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:177
+msgid "emails sent"
+msgstr "email gửi"
+
+#: lib/keila_web/templates/contact/edit.html.heex:164
+#, fuzzy
+msgid "filed a complaint"
+msgstr "Đã nộp đơn khiếu nại"
+
+#: lib/keila_web/templates/contact/edit.html.heex:171
+#, fuzzy
+msgid "from campaign"
+msgstr "Từ chiến dịch"
+
+#: lib/keila_web/templates/contact/edit.html.heex:162
+#, fuzzy
+msgid "permanently unreachable"
+msgstr "vĩnh viễn không thể liên lạc được"
+
+#: lib/keila_web/templates/campaign/stats_live.html.heex:235
+msgid "unsubscribes"
+msgstr "hủy đăng kí"
+
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:56
+msgid "None"
+msgstr "Không"
+
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:54
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#: lib/keila_web/templates/sender/_smtp_config.html.heex:55
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:281
+#, fuzzy
+msgid "  You may use Liquid and Markdown in the email body.\n"
+"  \n"
+"  Use `[Confirm]({{ double_opt_in_link }})` to include the opt-in link.\n"
+msgstr "  Bạn có thể sử dụng Liquid và Markdown trong nội dung email.\n"
+"  \n"
+"Sử dụng '[Xác nhận]({{ double_opt_in_link }})' để bao gồm liên kết chọn tham gia.\n"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:234
+#, fuzzy
+msgid "**Important:** You must create and select a sender here. Otherwise, no opt-in emails will be sent."
+msgstr "**Quan trọng:** Bạn phải tạo và chọn người gửi tại đây. Nếu không, sẽ không có email chọn tham gia nào được gửi."
+
+#: lib/keila_web/templates/form/edit_live.html.heex:70
+#: lib/keila_web/templates/form/edit_live.html.heex:195
+msgid "Double Opt-in"
+msgstr "Xác nhận Opt-in 2 bước"
+
+#: lib/keila_web/live/segment_edit_live.ex:10
+#, fuzzy
+msgid "Double opt-in date"
+msgstr "Ngày chọn tham gia kép"
+
+#: lib/keila_web/templates/error/404.html.heex:3
+msgid "Not found."
+msgstr "Không tìm thấy."
+
+#: lib/keila/mailings/send_double_opt_in_mail_worker.ex:47
+#: lib/keila_web/templates/form/edit_live.html.heex:293
+#, fuzzy
+msgid "Please click here to confirm your subscription:\n"
+"\n"
+"### [Confirm subscription]({{ double_opt_in_link }})\n"
+msgstr "Vui lòng nhấp vào đây để xác nhận đăng ký của bạn:\n"
+"\n"
+"### [Xác nhận đăng ký]({{ double_opt_in_link }})\n"
+
+#: lib/keila_web/templates/public_form/double_opt_in_required.html.heex:4
+#, fuzzy
+msgid "Please confirm your email"
+msgstr "Vui lòng xác nhận email của bạn"
+
+#: lib/keila/mailings/send_double_opt_in_mail_worker.ex:43
+#: lib/keila_web/templates/form/edit_live.html.heex:271
+msgid "Please confirm your email address"
+msgstr "Vui lòng xác nhận địa chỉ email của bạn"
+
+#: lib/keila_web/templates/form/edit_live.html.heex:205
+#, fuzzy
+msgid "Require double opt-in"
+msgstr "Yêu cầu chọn tham gia kép"
+
+#: lib/keila_web/templates/error/404.html.heex:14
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#: lib/keila_web/templates/error/404.html.heex:5
+#, fuzzy
+msgid "The page you’re looking for doesn’t exist or has been removed."
+msgstr "Trang bạn đang tìm kiếm không tồn tại hoặc đã bị xóa."
+
+#: lib/keila_web/templates/form/edit_live.html.heex:314
+#, fuzzy
+msgid "To prevent abuse by spammers, the double opt-in feature is currently only available if you have a subscription. Sorry for the inconvenience!"
+msgstr "Để ngăn chặn những kẻ gửi spam lạm dụng, tính năng chọn tham gia kép hiện chỉ khả dụng nếu bạn có đăng ký. Rất tiếc cho sự bất tiện này!"
+
+#: lib/keila_web/templates/error/404.html.heex:18
+#, fuzzy
+msgid "Visit the docs"
+msgstr "Truy cập tài liệu"
+
+#: lib/keila_web/templates/public_form/double_opt_in_required.html.heex:7
+#, fuzzy
+msgid "We’ve just sent an email to %{email}. Please click the link in that email to confirm your subscription."
+msgstr "Chúng tôi vừa gửi email đến %{email}. Vui lòng nhấp vào liên kết trong email đó để xác nhận đăng ký của bạn."
+
+#: lib/keila_web/templates/public_form/double_opt_in_cancelled.html.heex:7
+#, fuzzy
+msgid "You will not be subscribed to this list."
+msgstr "Bạn sẽ không được đăng ký vào danh sách này."
+
+#: lib/keila_web/templates/public_form/double_opt_in_cancelled.html.heex:4
+#, fuzzy
+msgid "Your data has been deleted."
+msgstr "Dữ liệu của bạn đã bị xóa."
+
+#: lib/keila_web/templates/contact/edit.html.heex:151
+#, fuzzy
+msgid "with double opt-in"
+msgstr "với tính năng chọn tham gia kép"
+
